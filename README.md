@@ -62,3 +62,70 @@ Os dados ficam armazenados temporariamente (em memória).
 
 ## 📁 **Estrutura do Projeto**
 
+/
+├── app.py
+├── dados.csv # gerado após upload
+├── modelo_preco.pkl # gerado após treinar
+├── requirements.txt
+├── templates/
+│ ├── index.html
+│ ├── home.html
+│ ├── livros.html
+│ ├── form_livro.html
+│ ├── treinar.html
+│ ├── predict.html
+│ ├── mostrar_csv.html
+│ └── selecionar_csv.html
+└── static/
+└── graficos/
+├── distrib_preco.png
+└── preco_genero.png
+
+
+---
+
+## 🧪 **Formato do CSV Esperado**
+
+Seu CSV deve conter pelo menos as colunas:
+
+| paginas | avaliacao | ano_publicacao | preco |
+|---------|-----------|----------------|-------|
+| 250     | 4.5       | 2020           | 39.9  |
+| 120     | 3.8       | 2015           | 19.5  |
+
+- **preco** → variável alvo  
+- **paginas**, **avaliacao**, **ano_publicacao** → variáveis usadas para treinar  
+
+O modelo usa automaticamente essas colunas.
+
+---
+
+ **Como Rodar o Projeto**
+
+1. Criar ambiente virtual
+```bash
+python -m venv venv
+
+python -m venv venv
+
+2. Ativar o ambiente virtual
+
+Windows:
+
+venv\Scripts\activate
+
+Linux/Mac:
+
+source venv/bin/activate
+
+3. Instalar dependências
+
+pip install -r requirements.txt
+
+4. Executar a aplicação
+
+python app.py
+
+Acesse:
+
+http://127.0.0.1:5000/
