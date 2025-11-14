@@ -1,0 +1,1001 @@
+id,titulo,autor,genero,ano_publicacao,paginas,avaliacao,preco,estoque
+1,No Limite 1,Maria Oliveira,Romance,1996,174,4.8,74.26,26
+2,No Limite 2,John Smith,Comédia,2009,135,1.4,93.05,25
+3,Sombras 3,Jane Doe,Drama,2010,116,1.8,74.29,48
+4,O Início 4,John Smith,Drama,2020,177,2.1,97.1,13
+5,Luz da Esperança 5,Carlos Silva,Terror,2009,158,2.5,25.3,23
+6,O Início 6,Lucas Santos,Romance,2022,94,3.6,98.83,2
+7,Luz da Esperança 7,Ana Costa,Terror,2005,167,1.1,17.54,43
+8,Destino Final 8,Maria Oliveira,Drama,1980,118,3.9,33.06,37
+9,Além das Estrelas 9,Carlos Silva,Comédia,2002,99,1.6,83.34,33
+10,Última Chance 10,John Smith,Drama,2013,157,4.9,52.79,48
+11,No Limite 11,Maria Oliveira,Fantasia,1996,91,3.7,66.07,37
+12,No Limite 12,Carlos Silva,Ficção Científica,1997,121,2.4,28.77,27
+13,Luz da Esperança 13,Jane Doe,Fantasia,1993,144,2.5,37.99,22
+14,Última Chance 14,Maria Oliveira,Ação,1991,140,4.9,76.82,35
+15,Sombras 15,John Smith,Comédia,1993,180,4.1,13.27,1
+16,Luz da Esperança 16,Maria Oliveira,Ficção Científica,1982,93,4.9,34.9,32
+17,A Jornada 17,Jane Doe,Drama,2002,173,4.7,56.98,12
+18,Além das Estrelas 18,Maria Oliveira,Fantasia,1994,150,3.1,94.52,48
+19,O Início 19,Carlos Silva,Comédia,2023,132,2.1,90.11,45
+20,Segredos do Tempo 20,John Smith,Fantasia,2023,140,4.3,31.16,36
+21,O Retorno 21,John Smith,Ficção Científica,2011,160,1.9,27.38,47
+22,Além das Estrelas 22,Ana Costa,Terror,2019,91,1.1,95.9,17
+23,Destino Final 23,Maria Oliveira,Comédia,1984,93,4.5,27.55,1
+24,No Limite 24,Jane Doe,Ação,2021,84,3.7,53.22,20
+25,Além das Estrelas 25,Carlos Silva,Comédia,2003,131,2.6,13.64,30
+26,A Jornada 26,Carlos Silva,Fantasia,2012,153,4.3,82.93,9
+27,Sombras 27,Jane Doe,Ficção Científica,2025,112,1.5,47.54,37
+28,Além das Estrelas 28,Maria Oliveira,Comédia,1980,93,4.0,10.94,4
+29,Última Chance 29,Lucas Santos,Comédia,2023,156,2.0,68.41,33
+30,O Início 30,Carlos Silva,Terror,2009,88,4.8,66.14,37
+31,Última Chance 31,Carlos Silva,Drama,2018,97,3.0,41.85,33
+32,Destino Final 32,Jane Doe,Romance,1995,166,1.7,79.1,40
+33,O Início 33,Ana Costa,Ação,2008,169,1.3,81.0,27
+34,A Jornada 34,Carlos Silva,Terror,2008,100,2.8,40.26,31
+35,Luz da Esperança 35,Carlos Silva,Fantasia,2001,166,4.4,71.52,9
+36,O Retorno 36,Lucas Santos,Fantasia,2007,103,2.1,93.46,32
+37,A Jornada 37,John Smith,Fantasia,2010,135,1.8,58.27,17
+38,O Início 38,Lucas Santos,Fantasia,2012,134,2.2,61.98,9
+39,Segredos do Tempo 39,John Smith,Drama,1982,134,4.4,30.0,2
+40,A Jornada 40,Lucas Santos,Fantasia,1986,136,3.1,26.85,16
+41,Segredos do Tempo 41,Ana Costa,Romance,2013,108,4.1,82.87,4
+42,Luz da Esperança 42,Carlos Silva,Romance,2013,109,4.8,47.69,27
+43,O Retorno 43,Lucas Santos,Terror,2005,101,3.7,44.84,12
+44,Luz da Esperança 44,Lucas Santos,Fantasia,2022,106,1.5,46.91,32
+45,O Início 45,John Smith,Ficção Científica,2000,175,1.6,89.65,3
+46,A Jornada 46,Carlos Silva,Fantasia,1994,99,3.1,59.58,41
+47,A Jornada 47,Maria Oliveira,Ação,2002,162,1.2,18.34,4
+48,Sombras 48,John Smith,Ficção Científica,2008,137,3.2,60.77,18
+49,O Retorno 49,Jane Doe,Ficção Científica,2001,118,2.9,24.14,17
+50,O Retorno 50,Ana Costa,Ação,2009,92,3.0,42.69,25
+51,O Retorno 51,Jane Doe,Comédia,2015,168,3.8,40.07,26
+52,A Jornada 52,John Smith,Comédia,2004,86,2.5,25.37,17
+53,Além das Estrelas 53,Jane Doe,Ficção Científica,2015,158,4.1,46.96,8
+54,Luz da Esperança 54,Jane Doe,Terror,1996,108,1.9,56.03,28
+55,Segredos do Tempo 55,Lucas Santos,Fantasia,2008,97,3.7,52.75,34
+56,A Jornada 56,Maria Oliveira,Terror,1981,157,4.5,38.12,29
+57,Sombras 57,John Smith,Terror,2020,81,1.5,74.21,44
+58,Além das Estrelas 58,John Smith,Drama,1988,129,4.5,91.18,35
+59,O Início 59,Jane Doe,Drama,1991,161,3.9,24.54,50
+60,A Jornada 60,Ana Costa,Drama,1983,169,4.2,45.13,7
+61,Além das Estrelas 61,Carlos Silva,Terror,1988,132,5.0,13.48,12
+62,Última Chance 62,John Smith,Drama,2019,133,3.2,38.08,12
+63,Segredos do Tempo 63,Jane Doe,Fantasia,1985,89,2.5,67.03,31
+64,Sombras 64,John Smith,Ficção Científica,1983,98,4.9,25.21,4
+65,Sombras 65,Carlos Silva,Romance,2000,145,1.4,87.35,20
+66,O Início 66,Maria Oliveira,Comédia,1987,112,3.5,91.43,28
+67,No Limite 67,Lucas Santos,Drama,1985,159,4.2,23.05,16
+68,Além das Estrelas 68,Maria Oliveira,Drama,2009,165,2.5,34.37,9
+69,Segredos do Tempo 69,Jane Doe,Ação,2003,162,1.3,85.88,35
+70,Sombras 70,Lucas Santos,Fantasia,2014,170,3.1,45.99,29
+71,Destino Final 71,Carlos Silva,Romance,1988,128,4.3,90.33,31
+72,O Início 72,Ana Costa,Comédia,1999,145,1.7,14.82,8
+73,A Jornada 73,Lucas Santos,Romance,2025,124,2.0,37.03,26
+74,Destino Final 74,Lucas Santos,Fantasia,2006,149,3.7,93.59,20
+75,Além das Estrelas 75,John Smith,Terror,2011,151,1.7,67.26,36
+76,Destino Final 76,Maria Oliveira,Ação,2004,99,3.6,35.07,8
+77,Última Chance 77,Jane Doe,Fantasia,1995,116,1.5,99.55,47
+78,No Limite 78,John Smith,Drama,1991,149,3.4,34.94,43
+79,Luz da Esperança 79,John Smith,Ficção Científica,1988,165,3.7,38.17,42
+80,Além das Estrelas 80,Ana Costa,Comédia,2021,121,2.0,97.38,41
+81,O Retorno 81,Lucas Santos,Ficção Científica,2001,127,1.7,68.68,42
+82,A Jornada 82,Lucas Santos,Ficção Científica,1985,126,3.9,17.29,32
+83,Última Chance 83,Maria Oliveira,Ficção Científica,1983,86,2.7,15.22,46
+84,O Retorno 84,Ana Costa,Fantasia,1982,166,3.8,79.8,30
+85,Além das Estrelas 85,Jane Doe,Comédia,1993,137,3.6,78.1,2
+86,Destino Final 86,Carlos Silva,Ficção Científica,1989,140,1.4,56.69,6
+87,A Jornada 87,John Smith,Terror,1991,159,3.6,45.17,31
+88,O Início 88,John Smith,Comédia,2005,95,3.7,86.05,45
+89,Destino Final 89,Maria Oliveira,Drama,2001,84,1.8,27.7,10
+90,Segredos do Tempo 90,Carlos Silva,Ação,2006,103,4.5,23.02,14
+91,Destino Final 91,Ana Costa,Ação,1997,155,2.3,46.64,4
+92,Destino Final 92,Lucas Santos,Terror,2015,141,3.0,42.12,16
+93,O Retorno 93,Jane Doe,Romance,2010,109,3.3,50.25,5
+94,No Limite 94,Lucas Santos,Fantasia,1993,102,2.9,34.58,44
+95,Sombras 95,Jane Doe,Drama,2001,124,2.2,42.16,49
+96,Segredos do Tempo 96,Carlos Silva,Terror,2024,96,1.5,24.13,47
+97,A Jornada 97,Maria Oliveira,Terror,2016,110,4.1,60.08,3
+98,O Início 98,Ana Costa,Comédia,2025,165,2.7,72.01,25
+99,Destino Final 99,Jane Doe,Romance,1985,135,4.7,94.98,33
+100,No Limite 100,Lucas Santos,Comédia,1999,131,1.2,74.45,14
+101,Luz da Esperança 101,Carlos Silva,Ação,1993,81,1.2,35.08,42
+102,O Retorno 102,Carlos Silva,Terror,2005,128,2.2,74.32,0
+103,Destino Final 103,John Smith,Ação,1995,99,3.2,91.27,50
+104,Destino Final 104,Maria Oliveira,Comédia,1985,154,4.0,25.2,38
+105,A Jornada 105,John Smith,Terror,1984,150,3.5,83.78,3
+106,Destino Final 106,Ana Costa,Comédia,2002,82,2.8,52.63,25
+107,Última Chance 107,Ana Costa,Terror,2023,174,4.1,91.33,36
+108,Luz da Esperança 108,Ana Costa,Romance,1998,151,1.5,10.67,11
+109,Sombras 109,Ana Costa,Romance,2000,110,1.5,79.68,34
+110,Além das Estrelas 110,Ana Costa,Ação,2012,139,4.6,61.42,25
+111,Segredos do Tempo 111,Jane Doe,Terror,1983,95,3.7,66.93,31
+112,O Retorno 112,Jane Doe,Terror,1998,155,3.1,89.54,49
+113,Última Chance 113,Lucas Santos,Comédia,2002,144,2.9,68.43,25
+114,Luz da Esperança 114,Lucas Santos,Comédia,2001,99,3.4,46.99,50
+115,O Retorno 115,Carlos Silva,Drama,2000,113,3.9,89.16,25
+116,No Limite 116,John Smith,Romance,2022,165,2.8,47.58,24
+117,A Jornada 117,John Smith,Drama,1988,110,1.7,93.57,16
+118,Luz da Esperança 118,Ana Costa,Comédia,2001,135,2.7,95.05,14
+119,A Jornada 119,Maria Oliveira,Ficção Científica,1999,145,3.0,52.96,4
+120,Luz da Esperança 120,John Smith,Comédia,2020,148,2.7,13.06,14
+121,Última Chance 121,Jane Doe,Ação,2003,178,2.1,15.97,23
+122,No Limite 122,Ana Costa,Fantasia,1980,145,4.2,82.42,37
+123,Sombras 123,Lucas Santos,Ficção Científica,1982,132,2.4,54.68,11
+124,Segredos do Tempo 124,Lucas Santos,Terror,1983,104,1.7,20.23,48
+125,Segredos do Tempo 125,John Smith,Comédia,2016,128,4.1,29.59,13
+126,Luz da Esperança 126,Maria Oliveira,Drama,1989,180,1.2,18.0,24
+127,A Jornada 127,Carlos Silva,Fantasia,2010,102,2.2,78.83,36
+128,Além das Estrelas 128,Jane Doe,Fantasia,1987,108,1.5,47.7,32
+129,Sombras 129,John Smith,Fantasia,2005,120,4.5,99.9,29
+130,Além das Estrelas 130,Carlos Silva,Ação,2001,128,1.3,46.34,5
+131,No Limite 131,Ana Costa,Drama,1997,135,3.2,68.61,0
+132,Luz da Esperança 132,John Smith,Drama,1988,150,2.2,90.62,12
+133,Segredos do Tempo 133,John Smith,Ação,2020,88,1.3,71.06,17
+134,O Início 134,John Smith,Terror,1990,121,3.0,60.1,38
+135,Sombras 135,Maria Oliveira,Ficção Científica,1990,165,2.2,53.21,11
+136,O Retorno 136,Ana Costa,Drama,2005,166,1.7,22.15,9
+137,Última Chance 137,Maria Oliveira,Drama,2004,109,5.0,88.97,8
+138,O Retorno 138,Ana Costa,Fantasia,2021,144,4.5,55.79,41
+139,Destino Final 139,Lucas Santos,Drama,2024,137,4.6,54.11,13
+140,Destino Final 140,John Smith,Drama,2022,118,3.7,51.19,22
+141,Destino Final 141,Lucas Santos,Drama,1996,87,4.0,50.08,4
+142,Segredos do Tempo 142,Carlos Silva,Drama,2016,134,2.5,64.22,46
+143,No Limite 143,Ana Costa,Drama,2000,118,1.3,12.42,9
+144,Destino Final 144,Maria Oliveira,Terror,1980,177,3.4,15.79,24
+145,Última Chance 145,Ana Costa,Ação,1988,137,2.7,20.57,2
+146,Última Chance 146,Carlos Silva,Ação,2020,115,3.6,69.8,21
+147,A Jornada 147,Carlos Silva,Comédia,1999,142,4.7,42.52,49
+148,Segredos do Tempo 148,Maria Oliveira,Romance,2005,93,4.0,65.57,24
+149,Além das Estrelas 149,John Smith,Romance,1981,93,2.3,98.28,9
+150,Destino Final 150,John Smith,Ação,2008,138,2.5,50.45,46
+151,Além das Estrelas 151,Ana Costa,Comédia,2000,167,4.0,16.01,3
+152,Além das Estrelas 152,Ana Costa,Comédia,2012,121,4.5,36.61,37
+153,Sombras 153,Carlos Silva,Drama,2022,87,4.6,85.54,24
+154,Destino Final 154,John Smith,Comédia,2007,151,2.2,27.15,15
+155,Luz da Esperança 155,Carlos Silva,Fantasia,2003,108,1.8,14.28,50
+156,O Retorno 156,Maria Oliveira,Fantasia,1993,145,3.2,63.55,7
+157,Última Chance 157,John Smith,Ação,2018,116,3.9,58.67,21
+158,Destino Final 158,Jane Doe,Ação,2021,101,3.4,82.56,37
+159,No Limite 159,Maria Oliveira,Fantasia,2025,82,1.9,25.25,32
+160,A Jornada 160,Carlos Silva,Romance,2005,127,2.5,12.16,38
+161,Além das Estrelas 161,John Smith,Romance,2006,99,4.7,68.48,7
+162,O Início 162,Jane Doe,Romance,2002,112,1.9,85.23,6
+163,O Início 163,John Smith,Drama,2019,89,2.3,42.83,38
+164,No Limite 164,Lucas Santos,Ação,2012,135,3.2,48.38,1
+165,Sombras 165,John Smith,Ficção Científica,1990,147,3.1,46.52,3
+166,Além das Estrelas 166,Maria Oliveira,Romance,2019,148,1.5,13.56,47
+167,Luz da Esperança 167,Ana Costa,Terror,2021,166,1.7,19.15,4
+168,Sombras 168,Maria Oliveira,Fantasia,2022,85,4.5,59.13,1
+169,A Jornada 169,Ana Costa,Terror,1988,88,3.9,12.26,19
+170,Destino Final 170,Jane Doe,Terror,2025,175,3.3,64.82,14
+171,No Limite 171,John Smith,Ação,1998,170,3.2,95.0,0
+172,O Retorno 172,Lucas Santos,Drama,2002,152,3.1,65.68,6
+173,Destino Final 173,Lucas Santos,Romance,1999,114,2.9,40.3,38
+174,O Início 174,Jane Doe,Terror,2020,98,4.0,38.11,37
+175,Destino Final 175,Jane Doe,Ação,1980,118,3.2,35.72,27
+176,O Início 176,Ana Costa,Drama,1987,123,2.2,64.03,2
+177,Além das Estrelas 177,Lucas Santos,Comédia,1989,134,4.6,65.7,13
+178,Sombras 178,Ana Costa,Drama,2001,104,1.8,66.99,42
+179,Segredos do Tempo 179,Maria Oliveira,Drama,2006,171,1.8,79.06,25
+180,No Limite 180,Lucas Santos,Ação,2017,96,4.7,55.5,16
+181,Além das Estrelas 181,John Smith,Ação,2002,174,2.5,92.87,4
+182,Sombras 182,John Smith,Comédia,1985,86,1.2,72.19,24
+183,Segredos do Tempo 183,Lucas Santos,Ficção Científica,1986,139,3.0,77.5,26
+184,Última Chance 184,Maria Oliveira,Romance,2010,155,3.3,74.88,49
+185,Segredos do Tempo 185,Maria Oliveira,Drama,2014,173,2.9,83.34,10
+186,Sombras 186,John Smith,Terror,1991,135,2.2,15.95,15
+187,Segredos do Tempo 187,Jane Doe,Romance,1985,109,2.7,89.19,50
+188,Segredos do Tempo 188,John Smith,Comédia,1994,96,1.7,55.9,32
+189,Última Chance 189,Lucas Santos,Terror,2008,127,4.3,28.42,5
+190,No Limite 190,Carlos Silva,Terror,2022,81,2.8,73.2,30
+191,Sombras 191,Lucas Santos,Comédia,2004,165,2.9,81.72,24
+192,Luz da Esperança 192,Carlos Silva,Drama,2006,138,2.9,48.99,8
+193,Última Chance 193,Jane Doe,Romance,1990,123,2.6,21.6,16
+194,Destino Final 194,Lucas Santos,Romance,2016,111,4.4,58.78,27
+195,Segredos do Tempo 195,Maria Oliveira,Terror,2022,125,4.9,30.82,33
+196,A Jornada 196,John Smith,Fantasia,2017,101,2.0,67.35,25
+197,O Retorno 197,Lucas Santos,Ação,1994,151,4.6,82.48,34
+198,A Jornada 198,Maria Oliveira,Comédia,2001,110,3.9,70.41,47
+199,Além das Estrelas 199,John Smith,Ficção Científica,2016,145,3.2,95.09,46
+200,A Jornada 200,Jane Doe,Terror,2000,82,2.8,53.63,2
+201,Além das Estrelas 201,Carlos Silva,Comédia,2004,162,2.6,92.98,48
+202,O Retorno 202,Carlos Silva,Ação,2008,154,4.6,56.86,46
+203,Sombras 203,Jane Doe,Drama,1988,111,1.7,84.92,12
+204,A Jornada 204,Carlos Silva,Comédia,1985,84,1.9,94.66,22
+205,O Retorno 205,John Smith,Ação,2009,88,3.2,47.57,12
+206,O Retorno 206,Ana Costa,Ficção Científica,2021,145,4.1,82.14,14
+207,Sombras 207,John Smith,Terror,2020,174,2.4,54.29,36
+208,No Limite 208,Jane Doe,Ficção Científica,1991,177,1.9,38.05,26
+209,Segredos do Tempo 209,Carlos Silva,Fantasia,1987,136,3.4,41.05,22
+210,Segredos do Tempo 210,John Smith,Comédia,2025,89,3.5,49.88,24
+211,Luz da Esperança 211,Lucas Santos,Terror,2013,106,2.3,50.99,34
+212,Além das Estrelas 212,Jane Doe,Terror,1992,161,1.8,24.84,3
+213,A Jornada 213,Ana Costa,Drama,2002,112,1.1,43.75,9
+214,O Início 214,Ana Costa,Romance,1993,133,3.3,74.11,29
+215,O Início 215,Maria Oliveira,Ficção Científica,2006,133,4.3,77.52,28
+216,Além das Estrelas 216,Ana Costa,Fantasia,2012,113,1.2,34.73,24
+217,Além das Estrelas 217,John Smith,Ação,1983,163,3.5,77.27,49
+218,Sombras 218,Carlos Silva,Fantasia,1991,156,1.6,52.87,40
+219,Luz da Esperança 219,Lucas Santos,Ação,1987,100,3.8,77.64,6
+220,O Início 220,Lucas Santos,Fantasia,2024,144,3.8,87.98,12
+221,Luz da Esperança 221,Jane Doe,Romance,2015,86,1.5,24.92,21
+222,No Limite 222,Maria Oliveira,Ficção Científica,1998,109,3.3,18.73,8
+223,Destino Final 223,Ana Costa,Drama,1981,126,4.9,69.79,23
+224,A Jornada 224,John Smith,Romance,2002,177,4.9,57.52,16
+225,A Jornada 225,Ana Costa,Fantasia,1986,100,4.5,67.35,1
+226,O Início 226,Maria Oliveira,Fantasia,2007,92,1.2,43.92,49
+227,Além das Estrelas 227,Lucas Santos,Comédia,2011,139,3.3,87.65,29
+228,Segredos do Tempo 228,John Smith,Ação,1992,179,3.2,91.93,4
+229,Última Chance 229,Maria Oliveira,Fantasia,1987,156,1.6,36.27,33
+230,O Início 230,Lucas Santos,Ficção Científica,1998,175,3.5,71.95,6
+231,Destino Final 231,Carlos Silva,Fantasia,2001,87,4.1,38.11,37
+232,A Jornada 232,Jane Doe,Comédia,1995,170,4.0,65.03,39
+233,Luz da Esperança 233,Carlos Silva,Ficção Científica,2006,171,3.2,38.26,4
+234,Destino Final 234,Maria Oliveira,Ação,1992,99,2.3,46.7,15
+235,O Retorno 235,Maria Oliveira,Drama,2021,130,1.9,75.09,4
+236,O Retorno 236,Carlos Silva,Terror,2005,117,3.6,20.92,11
+237,O Retorno 237,Ana Costa,Ação,2024,98,3.9,88.29,22
+238,Segredos do Tempo 238,John Smith,Ação,2013,175,1.2,33.44,32
+239,Destino Final 239,Jane Doe,Ficção Científica,2010,153,4.9,43.06,25
+240,Luz da Esperança 240,Lucas Santos,Ação,1998,120,1.1,95.35,38
+241,A Jornada 241,Carlos Silva,Fantasia,2013,99,4.3,31.52,48
+242,O Retorno 242,Jane Doe,Comédia,1996,138,1.9,59.92,13
+243,O Início 243,Carlos Silva,Drama,2014,150,2.3,37.2,4
+244,Sombras 244,Jane Doe,Comédia,1983,86,3.6,93.18,3
+245,Luz da Esperança 245,John Smith,Drama,1980,91,2.2,19.74,37
+246,O Início 246,Ana Costa,Ficção Científica,2008,140,3.0,78.14,29
+247,Luz da Esperança 247,Carlos Silva,Drama,1981,152,2.5,19.43,37
+248,Segredos do Tempo 248,Carlos Silva,Ficção Científica,2005,174,3.1,24.61,49
+249,Última Chance 249,Jane Doe,Comédia,2007,98,5.0,24.45,40
+250,Última Chance 250,Ana Costa,Terror,1996,153,1.6,89.67,10
+251,No Limite 251,Maria Oliveira,Comédia,1994,120,1.3,95.8,5
+252,Além das Estrelas 252,Lucas Santos,Drama,1980,83,3.1,95.91,29
+253,Além das Estrelas 253,John Smith,Ação,2015,107,3.0,13.83,20
+254,Última Chance 254,Carlos Silva,Ficção Científica,1980,173,3.5,78.35,38
+255,O Retorno 255,Ana Costa,Comédia,1992,88,3.2,27.09,43
+256,Última Chance 256,Lucas Santos,Romance,2017,153,2.1,87.94,3
+257,Além das Estrelas 257,John Smith,Terror,1999,88,1.5,58.36,14
+258,Última Chance 258,Ana Costa,Terror,2002,81,3.8,88.23,46
+259,Luz da Esperança 259,Carlos Silva,Comédia,2004,176,3.9,47.76,2
+260,Destino Final 260,Maria Oliveira,Terror,1995,165,3.1,77.35,10
+261,Luz da Esperança 261,Ana Costa,Ficção Científica,1983,139,3.2,97.18,11
+262,O Retorno 262,Jane Doe,Ficção Científica,1997,121,2.8,15.5,16
+263,Última Chance 263,Lucas Santos,Terror,1994,178,1.7,70.67,1
+264,Destino Final 264,John Smith,Terror,2012,168,4.7,15.66,21
+265,Segredos do Tempo 265,John Smith,Ficção Científica,1991,98,3.6,47.93,3
+266,A Jornada 266,Ana Costa,Ficção Científica,1999,151,2.5,87.79,44
+267,Sombras 267,John Smith,Comédia,1995,85,1.3,56.51,5
+268,Sombras 268,Lucas Santos,Terror,1984,150,3.3,50.81,13
+269,A Jornada 269,Jane Doe,Terror,2025,101,4.5,93.94,1
+270,Destino Final 270,Jane Doe,Drama,2003,129,3.8,47.96,39
+271,Sombras 271,Lucas Santos,Drama,2009,136,2.1,68.51,19
+272,Luz da Esperança 272,John Smith,Romance,2012,155,4.1,84.97,9
+273,Última Chance 273,Carlos Silva,Ficção Científica,1980,178,4.9,49.56,1
+274,Segredos do Tempo 274,Maria Oliveira,Terror,2011,155,4.1,99.33,10
+275,Segredos do Tempo 275,Lucas Santos,Terror,2015,137,4.5,66.76,46
+276,Última Chance 276,Ana Costa,Ficção Científica,1987,118,4.3,19.0,21
+277,Destino Final 277,Maria Oliveira,Drama,1994,115,2.8,80.27,34
+278,Sombras 278,Carlos Silva,Comédia,1998,155,3.2,70.68,47
+279,O Início 279,Maria Oliveira,Fantasia,1987,152,2.2,45.16,36
+280,Sombras 280,Jane Doe,Ficção Científica,2014,143,3.3,26.62,40
+281,No Limite 281,Ana Costa,Drama,2005,107,2.1,37.18,7
+282,Luz da Esperança 282,Jane Doe,Comédia,2012,150,2.4,35.23,5
+283,Última Chance 283,Carlos Silva,Ação,1982,81,3.0,27.45,24
+284,Luz da Esperança 284,Lucas Santos,Drama,2016,109,4.7,12.0,21
+285,Destino Final 285,John Smith,Ação,1982,123,1.0,16.74,39
+286,A Jornada 286,Maria Oliveira,Ação,2006,124,1.6,65.11,2
+287,A Jornada 287,Carlos Silva,Romance,1988,95,1.6,98.4,41
+288,O Início 288,John Smith,Ficção Científica,2013,125,2.8,84.05,50
+289,Segredos do Tempo 289,Maria Oliveira,Drama,1983,175,1.8,30.48,32
+290,O Início 290,Jane Doe,Fantasia,2015,163,1.5,52.92,43
+291,A Jornada 291,Ana Costa,Drama,2007,87,2.1,82.26,39
+292,A Jornada 292,Carlos Silva,Drama,2019,175,3.4,87.16,26
+293,No Limite 293,John Smith,Ficção Científica,2002,125,4.6,83.3,19
+294,Segredos do Tempo 294,Carlos Silva,Drama,2015,119,2.3,67.11,42
+295,Além das Estrelas 295,John Smith,Ficção Científica,2002,159,2.4,32.08,47
+296,O Retorno 296,Maria Oliveira,Fantasia,1998,120,3.6,76.57,16
+297,O Retorno 297,Ana Costa,Romance,2024,134,3.4,96.65,19
+298,Última Chance 298,John Smith,Comédia,1985,164,1.4,24.09,10
+299,Além das Estrelas 299,John Smith,Romance,1986,83,1.6,21.93,37
+300,Última Chance 300,John Smith,Comédia,1989,127,3.5,12.88,39
+301,Além das Estrelas 301,Jane Doe,Terror,1997,148,3.6,24.44,3
+302,O Retorno 302,Lucas Santos,Comédia,2004,108,4.3,72.12,35
+303,A Jornada 303,Maria Oliveira,Ficção Científica,1989,91,2.0,70.33,4
+304,Destino Final 304,Carlos Silva,Drama,1993,153,4.2,30.1,25
+305,No Limite 305,Maria Oliveira,Ação,1981,83,4.0,31.86,41
+306,Última Chance 306,Carlos Silva,Ficção Científica,2020,110,1.6,17.57,16
+307,Sombras 307,Ana Costa,Romance,2020,170,1.6,36.31,3
+308,O Início 308,Maria Oliveira,Romance,1995,128,2.3,48.45,32
+309,Destino Final 309,Maria Oliveira,Terror,1982,130,1.3,51.59,34
+310,Última Chance 310,Jane Doe,Comédia,2010,159,2.9,55.8,36
+311,Sombras 311,John Smith,Ficção Científica,1992,87,1.1,68.89,20
+312,Sombras 312,John Smith,Ficção Científica,1999,154,2.3,16.12,1
+313,O Retorno 313,John Smith,Romance,2020,118,2.3,87.15,3
+314,Além das Estrelas 314,John Smith,Comédia,1994,132,3.0,28.18,24
+315,O Retorno 315,Ana Costa,Ficção Científica,2020,100,3.4,81.84,22
+316,Além das Estrelas 316,John Smith,Romance,1997,148,3.5,41.83,19
+317,No Limite 317,Lucas Santos,Romance,2022,114,2.3,39.16,9
+318,A Jornada 318,Ana Costa,Drama,1984,120,4.5,71.21,6
+319,Segredos do Tempo 319,Ana Costa,Comédia,1983,136,1.3,31.15,48
+320,Destino Final 320,Jane Doe,Ficção Científica,1997,168,1.6,62.1,20
+321,Sombras 321,Carlos Silva,Comédia,1998,159,4.7,89.41,24
+322,Além das Estrelas 322,Carlos Silva,Ficção Científica,2007,93,1.4,99.07,13
+323,Sombras 323,Jane Doe,Ação,2004,152,4.9,59.28,29
+324,Destino Final 324,Lucas Santos,Fantasia,2021,175,3.8,17.58,48
+325,Destino Final 325,Maria Oliveira,Ficção Científica,2024,160,3.1,97.13,44
+326,O Início 326,John Smith,Comédia,2012,109,1.0,78.98,25
+327,No Limite 327,Lucas Santos,Ação,2010,134,4.3,38.78,4
+328,Além das Estrelas 328,Jane Doe,Terror,1990,108,3.3,89.45,6
+329,Última Chance 329,Maria Oliveira,Ação,2018,113,1.2,32.25,33
+330,Luz da Esperança 330,John Smith,Terror,2000,97,1.4,43.95,13
+331,A Jornada 331,Maria Oliveira,Terror,1993,177,3.8,85.37,12
+332,O Retorno 332,Maria Oliveira,Ação,1993,142,4.0,12.63,43
+333,O Início 333,Maria Oliveira,Comédia,2008,96,1.4,91.7,19
+334,Além das Estrelas 334,Ana Costa,Ação,1991,85,3.2,44.33,11
+335,A Jornada 335,Ana Costa,Romance,2020,108,1.2,84.63,3
+336,No Limite 336,Ana Costa,Drama,2015,83,1.6,50.22,44
+337,Sombras 337,Lucas Santos,Comédia,1988,165,4.0,50.7,35
+338,A Jornada 338,Carlos Silva,Ação,1991,90,2.0,84.99,30
+339,Segredos do Tempo 339,Carlos Silva,Ação,1988,174,2.1,13.15,25
+340,Destino Final 340,John Smith,Comédia,1992,146,2.5,23.49,18
+341,O Retorno 341,Lucas Santos,Drama,2025,169,4.8,19.78,45
+342,O Retorno 342,Ana Costa,Ficção Científica,2012,95,2.8,79.49,4
+343,Além das Estrelas 343,Lucas Santos,Ficção Científica,2005,169,4.4,56.41,24
+344,Sombras 344,Lucas Santos,Romance,1983,171,3.6,68.81,16
+345,O Retorno 345,Jane Doe,Ficção Científica,2016,170,3.7,47.68,5
+346,Luz da Esperança 346,Ana Costa,Fantasia,2019,104,1.5,12.18,40
+347,Sombras 347,Ana Costa,Drama,2006,91,3.6,44.75,39
+348,O Início 348,Carlos Silva,Romance,1994,172,5.0,97.29,36
+349,No Limite 349,Jane Doe,Ficção Científica,1986,115,2.6,27.31,45
+350,Última Chance 350,Ana Costa,Drama,2008,175,3.6,58.97,37
+351,Sombras 351,Maria Oliveira,Terror,1984,90,1.0,97.03,19
+352,Luz da Esperança 352,Jane Doe,Romance,1984,155,1.6,68.14,45
+353,O Retorno 353,Lucas Santos,Terror,2012,179,4.3,38.7,18
+354,Destino Final 354,Maria Oliveira,Comédia,1996,173,3.4,30.1,7
+355,A Jornada 355,Lucas Santos,Romance,2010,129,2.7,64.99,33
+356,O Início 356,Ana Costa,Drama,2008,127,2.6,66.31,30
+357,Última Chance 357,John Smith,Terror,2009,176,3.4,95.74,16
+358,Além das Estrelas 358,John Smith,Drama,1995,129,3.7,58.16,26
+359,No Limite 359,Ana Costa,Ficção Científica,1987,144,4.7,44.93,18
+360,Luz da Esperança 360,Ana Costa,Drama,1990,137,3.8,65.79,25
+361,No Limite 361,Carlos Silva,Ação,2019,108,4.8,36.59,28
+362,No Limite 362,Jane Doe,Romance,1985,150,3.6,29.6,6
+363,Além das Estrelas 363,Ana Costa,Romance,1991,131,2.1,24.3,42
+364,Última Chance 364,Carlos Silva,Terror,1987,157,3.6,31.93,46
+365,Última Chance 365,Ana Costa,Drama,2001,135,4.0,41.52,12
+366,Segredos do Tempo 366,Lucas Santos,Ficção Científica,1997,82,3.4,58.28,50
+367,Luz da Esperança 367,Maria Oliveira,Romance,1987,164,2.1,81.11,37
+368,Além das Estrelas 368,Jane Doe,Terror,1984,110,3.3,72.34,7
+369,Luz da Esperança 369,John Smith,Romance,2017,104,1.8,36.89,45
+370,Última Chance 370,John Smith,Ação,2017,83,3.1,69.67,24
+371,Destino Final 371,Carlos Silva,Terror,1994,140,2.6,21.83,47
+372,O Início 372,Carlos Silva,Ficção Científica,2007,100,3.7,32.42,14
+373,Luz da Esperança 373,Ana Costa,Comédia,2022,176,3.9,93.77,5
+374,Além das Estrelas 374,Maria Oliveira,Comédia,1988,104,1.1,63.43,33
+375,Além das Estrelas 375,John Smith,Ficção Científica,2008,142,1.0,69.62,33
+376,O Retorno 376,John Smith,Drama,1989,150,4.5,90.72,25
+377,No Limite 377,Jane Doe,Terror,2008,102,4.5,75.31,9
+378,Última Chance 378,Maria Oliveira,Fantasia,2014,135,3.2,33.91,19
+379,Sombras 379,Lucas Santos,Ação,2025,128,2.8,16.64,41
+380,A Jornada 380,John Smith,Drama,1987,131,1.6,14.29,23
+381,Luz da Esperança 381,Ana Costa,Comédia,2019,154,3.7,22.97,8
+382,O Início 382,Maria Oliveira,Comédia,1986,83,4.9,38.41,18
+383,O Início 383,Jane Doe,Ficção Científica,1983,169,4.6,58.76,7
+384,No Limite 384,Carlos Silva,Romance,1981,130,4.9,68.01,11
+385,Segredos do Tempo 385,John Smith,Terror,1988,103,1.5,54.27,29
+386,Além das Estrelas 386,Lucas Santos,Fantasia,1989,107,4.7,10.77,5
+387,Além das Estrelas 387,Maria Oliveira,Fantasia,2014,146,2.4,71.33,12
+388,No Limite 388,Jane Doe,Terror,1994,179,3.4,53.61,43
+389,Sombras 389,Ana Costa,Ação,2007,119,2.2,87.95,36
+390,Segredos do Tempo 390,Jane Doe,Ação,1985,131,1.1,36.46,49
+391,Segredos do Tempo 391,Ana Costa,Ação,2021,126,2.1,53.03,25
+392,Luz da Esperança 392,Ana Costa,Terror,1990,88,1.2,98.31,22
+393,Além das Estrelas 393,John Smith,Ficção Científica,1982,105,2.6,20.45,15
+394,Luz da Esperança 394,John Smith,Terror,2024,177,3.8,55.52,28
+395,O Início 395,Lucas Santos,Drama,2025,174,4.2,14.76,26
+396,Sombras 396,Ana Costa,Terror,1999,95,1.8,68.12,26
+397,O Retorno 397,Jane Doe,Drama,1987,173,3.9,45.31,9
+398,Luz da Esperança 398,Lucas Santos,Ficção Científica,2016,92,3.5,56.52,2
+399,O Início 399,Ana Costa,Fantasia,2010,117,2.2,46.24,22
+400,Segredos do Tempo 400,John Smith,Comédia,2025,116,3.6,12.57,6
+401,A Jornada 401,John Smith,Fantasia,2007,144,4.7,47.01,49
+402,Destino Final 402,Maria Oliveira,Drama,2017,90,1.9,22.1,45
+403,Destino Final 403,Jane Doe,Ficção Científica,2006,132,2.4,48.78,19
+404,Além das Estrelas 404,John Smith,Ficção Científica,2010,101,2.6,14.14,26
+405,A Jornada 405,Ana Costa,Ação,2021,91,1.3,11.77,4
+406,O Início 406,Lucas Santos,Ficção Científica,2011,119,2.4,81.74,22
+407,No Limite 407,Carlos Silva,Fantasia,1996,133,3.6,12.79,19
+408,O Retorno 408,Maria Oliveira,Ação,2011,145,2.2,62.42,29
+409,Sombras 409,Carlos Silva,Drama,2013,95,3.6,91.19,8
+410,A Jornada 410,Jane Doe,Ação,2002,171,2.9,10.7,50
+411,Luz da Esperança 411,Lucas Santos,Terror,2016,154,2.5,58.82,18
+412,Além das Estrelas 412,Carlos Silva,Terror,2011,155,4.2,52.38,15
+413,Última Chance 413,Lucas Santos,Terror,2006,82,2.7,33.28,47
+414,Sombras 414,John Smith,Terror,2005,165,2.6,98.44,46
+415,O Início 415,Ana Costa,Ação,1983,97,1.6,41.86,26
+416,Sombras 416,John Smith,Terror,2025,122,3.7,68.41,17
+417,No Limite 417,Lucas Santos,Comédia,1986,143,3.5,58.37,24
+418,Segredos do Tempo 418,John Smith,Drama,1980,164,1.9,31.53,46
+419,O Início 419,Jane Doe,Comédia,2012,82,3.8,43.35,42
+420,A Jornada 420,Lucas Santos,Ficção Científica,2005,100,4.4,22.38,28
+421,O Retorno 421,Maria Oliveira,Comédia,2005,119,3.0,17.59,2
+422,No Limite 422,Jane Doe,Terror,2009,138,3.5,51.42,49
+423,Sombras 423,Lucas Santos,Ação,2023,152,1.5,41.28,19
+424,O Retorno 424,Carlos Silva,Comédia,2021,138,3.5,98.61,12
+425,O Início 425,Carlos Silva,Fantasia,1991,125,1.9,41.93,3
+426,Sombras 426,Carlos Silva,Terror,2006,137,4.1,20.26,10
+427,Segredos do Tempo 427,Jane Doe,Terror,1982,163,2.7,85.66,2
+428,O Retorno 428,John Smith,Drama,1991,115,1.7,36.65,8
+429,Luz da Esperança 429,Ana Costa,Terror,1994,163,3.1,14.91,35
+430,Segredos do Tempo 430,Carlos Silva,Drama,2002,87,4.3,66.48,40
+431,Última Chance 431,John Smith,Terror,2003,133,1.3,27.94,12
+432,Além das Estrelas 432,Ana Costa,Romance,1992,145,2.1,96.38,48
+433,No Limite 433,Maria Oliveira,Fantasia,1982,159,1.8,76.0,24
+434,A Jornada 434,Lucas Santos,Ficção Científica,2019,133,4.8,93.96,1
+435,O Início 435,Ana Costa,Terror,1992,106,1.9,75.7,17
+436,No Limite 436,Maria Oliveira,Drama,1990,119,1.3,99.74,2
+437,Segredos do Tempo 437,Maria Oliveira,Ação,2024,136,2.7,56.47,39
+438,Além das Estrelas 438,Jane Doe,Comédia,1986,119,3.6,43.81,14
+439,Sombras 439,Lucas Santos,Drama,2016,93,2.1,57.37,30
+440,Sombras 440,Maria Oliveira,Ficção Científica,1982,121,3.1,82.24,47
+441,Segredos do Tempo 441,Jane Doe,Comédia,1985,83,3.7,51.97,8
+442,Sombras 442,Maria Oliveira,Fantasia,2002,168,1.5,41.1,4
+443,No Limite 443,Maria Oliveira,Ação,2005,96,2.9,86.64,49
+444,O Retorno 444,Ana Costa,Drama,1995,145,3.1,57.02,50
+445,A Jornada 445,Lucas Santos,Terror,2005,130,2.1,24.79,17
+446,O Retorno 446,Ana Costa,Terror,1984,129,2.0,22.38,7
+447,Segredos do Tempo 447,Jane Doe,Terror,2015,172,2.7,13.46,19
+448,O Início 448,Ana Costa,Romance,1988,168,1.8,70.69,4
+449,Segredos do Tempo 449,Carlos Silva,Comédia,2022,93,1.0,44.84,9
+450,O Início 450,Carlos Silva,Fantasia,1984,94,4.2,61.37,45
+451,Sombras 451,Maria Oliveira,Ação,1998,106,1.9,82.34,31
+452,O Início 452,Lucas Santos,Comédia,2014,134,2.6,83.5,40
+453,Destino Final 453,John Smith,Ficção Científica,1984,145,4.7,15.05,15
+454,O Início 454,Lucas Santos,Fantasia,1986,165,3.8,60.58,11
+455,Além das Estrelas 455,Ana Costa,Terror,2006,163,4.2,45.84,10
+456,Segredos do Tempo 456,Maria Oliveira,Ficção Científica,2019,113,2.3,51.53,39
+457,Destino Final 457,Ana Costa,Romance,2025,101,3.0,34.75,8
+458,Segredos do Tempo 458,Carlos Silva,Romance,2019,104,2.2,96.09,14
+459,Segredos do Tempo 459,Jane Doe,Comédia,2009,172,4.2,95.76,16
+460,No Limite 460,Carlos Silva,Ação,1980,81,3.3,82.18,4
+461,Última Chance 461,Lucas Santos,Romance,2019,85,5.0,71.31,10
+462,No Limite 462,Lucas Santos,Ação,2023,152,2.7,41.09,1
+463,A Jornada 463,Lucas Santos,Ficção Científica,1999,124,2.3,61.21,19
+464,Destino Final 464,Ana Costa,Comédia,2007,124,3.2,72.73,41
+465,Destino Final 465,Ana Costa,Ação,2016,82,3.6,91.32,44
+466,O Retorno 466,Lucas Santos,Terror,1987,101,2.7,71.79,39
+467,O Início 467,Maria Oliveira,Fantasia,1999,118,4.6,17.49,1
+468,Sombras 468,John Smith,Drama,2003,125,5.0,62.44,23
+469,O Início 469,Jane Doe,Drama,2013,139,2.7,21.9,39
+470,Segredos do Tempo 470,Jane Doe,Terror,1997,156,3.8,31.02,36
+471,Segredos do Tempo 471,Carlos Silva,Fantasia,2003,100,4.1,73.51,34
+472,O Retorno 472,John Smith,Terror,1998,151,4.7,70.05,4
+473,O Retorno 473,Jane Doe,Ação,1995,170,2.9,22.69,14
+474,O Início 474,Ana Costa,Drama,2019,96,3.7,63.59,36
+475,Além das Estrelas 475,Ana Costa,Ação,2005,83,3.4,44.71,30
+476,Luz da Esperança 476,John Smith,Drama,1980,144,1.3,88.26,16
+477,Última Chance 477,Lucas Santos,Romance,2007,163,3.3,83.27,7
+478,Além das Estrelas 478,Jane Doe,Drama,2010,139,4.0,21.79,36
+479,O Retorno 479,Carlos Silva,Terror,1995,128,2.3,79.06,8
+480,O Retorno 480,Lucas Santos,Romance,2001,168,4.2,88.5,43
+481,O Início 481,Maria Oliveira,Terror,2000,119,4.5,10.03,21
+482,Segredos do Tempo 482,Ana Costa,Romance,2023,81,3.3,73.73,4
+483,O Retorno 483,Ana Costa,Ação,1981,143,4.8,35.37,40
+484,O Início 484,Lucas Santos,Fantasia,2011,124,2.1,84.86,31
+485,Destino Final 485,Maria Oliveira,Ficção Científica,2003,154,2.0,40.39,39
+486,Além das Estrelas 486,Jane Doe,Ação,1986,95,1.3,84.44,35
+487,Luz da Esperança 487,Carlos Silva,Drama,1987,124,4.3,13.94,42
+488,Última Chance 488,John Smith,Fantasia,1986,120,2.0,48.33,48
+489,Última Chance 489,John Smith,Drama,2020,174,1.5,32.83,43
+490,A Jornada 490,Lucas Santos,Drama,2013,85,2.2,26.37,33
+491,Segredos do Tempo 491,Lucas Santos,Ficção Científica,2014,124,4.0,63.57,47
+492,Última Chance 492,Maria Oliveira,Romance,1992,169,3.6,98.0,28
+493,Sombras 493,Lucas Santos,Terror,2024,154,2.8,36.12,7
+494,O Retorno 494,Maria Oliveira,Ficção Científica,2004,118,3.0,26.64,13
+495,Sombras 495,John Smith,Ficção Científica,1985,180,2.4,55.72,8
+496,Luz da Esperança 496,Carlos Silva,Fantasia,2008,172,2.5,63.04,3
+497,O Início 497,Lucas Santos,Drama,1990,168,4.3,13.65,1
+498,O Retorno 498,Carlos Silva,Comédia,1982,109,2.3,19.21,18
+499,A Jornada 499,Lucas Santos,Fantasia,1985,146,1.8,81.42,11
+500,Sombras 500,Lucas Santos,Fantasia,1993,169,3.4,87.08,23
+501,Destino Final 501,Carlos Silva,Terror,1990,109,4.5,78.0,7
+502,Destino Final 502,Jane Doe,Ação,2006,161,2.3,55.19,41
+503,Última Chance 503,Jane Doe,Comédia,2019,127,3.8,35.68,6
+504,O Início 504,Lucas Santos,Ação,1998,128,1.9,61.8,26
+505,O Retorno 505,John Smith,Romance,1992,114,1.9,87.69,24
+506,Última Chance 506,Lucas Santos,Fantasia,2014,129,1.2,81.33,38
+507,A Jornada 507,John Smith,Terror,2011,148,1.0,23.8,36
+508,O Início 508,Lucas Santos,Fantasia,1987,94,3.7,45.52,30
+509,Segredos do Tempo 509,Jane Doe,Fantasia,2006,154,3.2,43.26,19
+510,Além das Estrelas 510,Lucas Santos,Ficção Científica,2007,157,2.1,95.69,24
+511,Destino Final 511,Ana Costa,Terror,2024,107,3.7,23.93,37
+512,O Início 512,John Smith,Fantasia,2007,176,2.2,15.88,0
+513,O Retorno 513,Maria Oliveira,Ação,1988,110,2.9,82.91,9
+514,Sombras 514,Maria Oliveira,Ação,2005,132,3.0,69.16,27
+515,A Jornada 515,Ana Costa,Ação,2007,163,2.6,22.55,35
+516,Luz da Esperança 516,Maria Oliveira,Drama,2024,179,4.9,10.73,37
+517,O Retorno 517,Maria Oliveira,Comédia,1991,142,2.9,68.77,21
+518,O Retorno 518,Carlos Silva,Drama,2016,174,1.0,57.46,40
+519,Destino Final 519,John Smith,Terror,2013,145,3.7,41.59,29
+520,Segredos do Tempo 520,Lucas Santos,Romance,2003,92,4.7,81.86,2
+521,A Jornada 521,Carlos Silva,Ação,2004,81,2.2,30.9,28
+522,Além das Estrelas 522,John Smith,Terror,1990,143,4.3,22.38,30
+523,O Retorno 523,Carlos Silva,Romance,2017,115,1.3,81.94,38
+524,Luz da Esperança 524,John Smith,Romance,2011,82,4.5,81.23,49
+525,Destino Final 525,Jane Doe,Ficção Científica,2016,123,1.0,21.09,30
+526,Além das Estrelas 526,Jane Doe,Ação,2005,127,3.7,78.86,49
+527,O Início 527,Maria Oliveira,Terror,1988,152,2.7,13.51,22
+528,O Retorno 528,Ana Costa,Comédia,1988,115,4.0,30.69,37
+529,O Início 529,Jane Doe,Drama,2003,124,1.5,78.55,35
+530,Segredos do Tempo 530,Ana Costa,Ficção Científica,1986,85,1.8,28.83,16
+531,Última Chance 531,Jane Doe,Ficção Científica,2024,149,2.8,55.45,15
+532,Segredos do Tempo 532,Maria Oliveira,Ação,2008,113,3.1,49.88,23
+533,A Jornada 533,John Smith,Ação,2023,123,3.7,95.43,50
+534,O Início 534,Lucas Santos,Romance,2025,83,4.0,88.23,5
+535,Luz da Esperança 535,Lucas Santos,Ação,2012,119,1.4,97.02,40
+536,Além das Estrelas 536,Maria Oliveira,Drama,1994,151,1.1,66.15,42
+537,Destino Final 537,Ana Costa,Ficção Científica,1988,168,3.2,79.16,16
+538,Segredos do Tempo 538,John Smith,Ficção Científica,1989,124,2.9,70.36,36
+539,O Início 539,Lucas Santos,Ficção Científica,1982,89,1.5,87.99,36
+540,Luz da Esperança 540,Carlos Silva,Drama,2025,152,2.4,74.74,20
+541,Além das Estrelas 541,Lucas Santos,Terror,2001,144,2.9,94.11,34
+542,O Início 542,Ana Costa,Drama,1985,107,3.8,16.1,33
+543,O Retorno 543,Lucas Santos,Terror,2019,121,4.8,38.6,49
+544,O Início 544,Carlos Silva,Ficção Científica,1994,148,1.9,87.87,6
+545,A Jornada 545,John Smith,Ficção Científica,1998,126,1.7,84.93,14
+546,Além das Estrelas 546,Jane Doe,Romance,1982,158,3.4,47.09,29
+547,Última Chance 547,Jane Doe,Ação,1987,178,2.1,93.96,43
+548,O Início 548,Lucas Santos,Comédia,1994,152,2.1,88.92,40
+549,Luz da Esperança 549,Carlos Silva,Romance,2010,103,4.7,25.86,43
+550,No Limite 550,Maria Oliveira,Terror,2024,94,3.2,69.13,30
+551,Além das Estrelas 551,Maria Oliveira,Ação,1980,127,1.3,70.15,15
+552,Sombras 552,John Smith,Romance,2019,162,3.1,16.91,14
+553,Além das Estrelas 553,John Smith,Ação,2007,154,2.4,31.06,28
+554,Última Chance 554,Carlos Silva,Drama,2003,155,2.0,89.48,48
+555,O Início 555,John Smith,Fantasia,2023,114,4.8,86.5,35
+556,O Retorno 556,John Smith,Comédia,1997,171,4.3,89.56,27
+557,A Jornada 557,John Smith,Drama,2007,146,4.0,73.1,37
+558,O Retorno 558,John Smith,Drama,1995,108,2.2,85.18,22
+559,O Retorno 559,John Smith,Comédia,1980,116,2.9,22.07,19
+560,Segredos do Tempo 560,Carlos Silva,Ação,2016,92,2.2,46.99,26
+561,Luz da Esperança 561,Ana Costa,Ação,2019,118,3.5,67.28,1
+562,A Jornada 562,Maria Oliveira,Terror,2019,161,1.2,85.79,27
+563,Segredos do Tempo 563,Maria Oliveira,Comédia,1984,168,4.2,41.3,41
+564,Sombras 564,Lucas Santos,Terror,2023,116,1.7,60.98,30
+565,Segredos do Tempo 565,Lucas Santos,Terror,1990,146,4.1,26.52,41
+566,O Retorno 566,Jane Doe,Ficção Científica,2019,96,4.0,81.24,11
+567,Sombras 567,John Smith,Drama,2009,171,4.7,77.27,33
+568,O Retorno 568,Lucas Santos,Comédia,2001,114,3.1,74.11,36
+569,A Jornada 569,John Smith,Fantasia,2011,98,4.4,35.38,42
+570,Destino Final 570,Ana Costa,Comédia,1983,88,4.7,67.13,3
+571,Destino Final 571,Ana Costa,Ficção Científica,2012,98,2.8,85.0,40
+572,Destino Final 572,John Smith,Comédia,1993,129,3.9,65.11,6
+573,No Limite 573,Jane Doe,Ação,1986,131,1.9,87.52,35
+574,Luz da Esperança 574,Carlos Silva,Terror,2001,82,2.1,11.34,0
+575,A Jornada 575,John Smith,Ação,2010,148,3.1,28.86,21
+576,Além das Estrelas 576,Jane Doe,Ficção Científica,1996,140,4.3,54.94,27
+577,Sombras 577,Maria Oliveira,Comédia,1987,171,1.6,17.5,19
+578,No Limite 578,Lucas Santos,Romance,2004,165,3.7,53.95,15
+579,Segredos do Tempo 579,Jane Doe,Comédia,1996,140,4.8,54.04,22
+580,No Limite 580,Lucas Santos,Fantasia,2008,101,1.4,19.8,9
+581,A Jornada 581,Ana Costa,Comédia,1995,174,1.7,19.19,35
+582,Sombras 582,Maria Oliveira,Ação,1995,150,4.4,20.58,27
+583,Sombras 583,John Smith,Fantasia,1983,177,2.7,73.27,20
+584,Além das Estrelas 584,Lucas Santos,Comédia,1999,135,3.9,32.67,47
+585,O Retorno 585,Maria Oliveira,Romance,2006,139,2.0,18.73,28
+586,O Início 586,Ana Costa,Fantasia,1995,138,4.1,26.91,48
+587,Além das Estrelas 587,Ana Costa,Drama,2003,81,3.0,52.5,28
+588,Última Chance 588,Jane Doe,Comédia,2001,156,4.9,77.71,33
+589,Última Chance 589,Jane Doe,Drama,2018,172,2.1,55.67,23
+590,Última Chance 590,Carlos Silva,Fantasia,1985,99,3.2,33.51,19
+591,O Início 591,Carlos Silva,Fantasia,2012,106,1.2,17.66,49
+592,Destino Final 592,Lucas Santos,Comédia,2023,129,1.4,84.47,4
+593,Luz da Esperança 593,Carlos Silva,Drama,2021,164,3.4,89.48,22
+594,Segredos do Tempo 594,Ana Costa,Drama,2012,87,2.6,45.12,18
+595,O Início 595,Ana Costa,Drama,2007,146,2.1,19.38,15
+596,Última Chance 596,Ana Costa,Fantasia,2020,126,4.4,17.76,33
+597,Segredos do Tempo 597,Maria Oliveira,Terror,1994,117,1.8,41.18,46
+598,Luz da Esperança 598,Jane Doe,Ficção Científica,2025,113,4.1,48.09,42
+599,Luz da Esperança 599,John Smith,Comédia,2005,119,1.4,82.68,11
+600,Além das Estrelas 600,Maria Oliveira,Comédia,2022,180,1.7,96.13,24
+601,A Jornada 601,Lucas Santos,Ação,1988,106,4.9,73.03,10
+602,O Início 602,Ana Costa,Comédia,2000,126,2.9,30.18,12
+603,O Início 603,John Smith,Drama,2004,147,4.2,62.28,1
+604,A Jornada 604,Maria Oliveira,Fantasia,1982,138,3.5,81.35,26
+605,Última Chance 605,Carlos Silva,Ação,2022,116,2.7,51.89,38
+606,No Limite 606,Ana Costa,Ficção Científica,2025,171,2.6,27.0,9
+607,No Limite 607,Maria Oliveira,Terror,1981,163,1.2,66.37,4
+608,Última Chance 608,Ana Costa,Terror,2014,115,2.6,94.98,5
+609,Luz da Esperança 609,Lucas Santos,Ação,1988,165,1.1,50.2,25
+610,Segredos do Tempo 610,John Smith,Romance,1981,169,3.5,87.0,49
+611,Destino Final 611,Jane Doe,Ficção Científica,2004,89,4.2,66.75,17
+612,O Início 612,Lucas Santos,Romance,2018,140,1.1,55.54,49
+613,O Retorno 613,Ana Costa,Drama,2010,106,4.0,82.97,35
+614,Destino Final 614,Maria Oliveira,Fantasia,2022,120,2.8,38.53,4
+615,Além das Estrelas 615,Maria Oliveira,Fantasia,2017,171,4.1,99.3,48
+616,Segredos do Tempo 616,John Smith,Romance,2022,155,2.0,74.1,25
+617,O Retorno 617,John Smith,Drama,1990,101,4.2,22.97,42
+618,A Jornada 618,Carlos Silva,Drama,2006,125,3.4,94.21,48
+619,No Limite 619,John Smith,Comédia,2015,153,3.3,13.42,4
+620,O Início 620,Maria Oliveira,Comédia,1983,149,1.9,93.86,47
+621,O Início 621,Lucas Santos,Ação,2010,84,2.0,12.0,3
+622,O Início 622,Carlos Silva,Ficção Científica,2017,99,1.0,81.56,5
+623,O Início 623,Ana Costa,Ação,1988,116,3.1,81.19,23
+624,Destino Final 624,Lucas Santos,Comédia,1985,141,1.4,45.06,42
+625,O Início 625,Carlos Silva,Drama,2025,88,2.4,35.33,38
+626,O Retorno 626,Carlos Silva,Fantasia,1980,108,1.7,42.39,41
+627,Destino Final 627,Maria Oliveira,Romance,1983,87,3.6,81.29,16
+628,A Jornada 628,Maria Oliveira,Ação,1981,127,1.1,12.77,45
+629,No Limite 629,Carlos Silva,Ficção Científica,1993,160,4.8,58.2,44
+630,A Jornada 630,Maria Oliveira,Comédia,2015,108,1.3,52.18,36
+631,No Limite 631,John Smith,Drama,1994,96,2.3,44.12,31
+632,Última Chance 632,Ana Costa,Terror,2019,116,3.5,32.17,19
+633,Sombras 633,Maria Oliveira,Romance,1992,98,3.2,54.03,24
+634,Destino Final 634,John Smith,Terror,1980,85,3.0,72.65,12
+635,Segredos do Tempo 635,John Smith,Fantasia,1991,177,4.8,62.39,19
+636,Sombras 636,Lucas Santos,Romance,2011,129,4.6,96.37,50
+637,Segredos do Tempo 637,Carlos Silva,Romance,1984,142,1.4,54.44,10
+638,O Retorno 638,Jane Doe,Fantasia,2013,90,1.5,84.01,40
+639,Destino Final 639,Ana Costa,Comédia,2018,109,2.6,26.47,44
+640,Última Chance 640,Maria Oliveira,Comédia,2023,97,3.5,21.18,7
+641,A Jornada 641,Carlos Silva,Drama,2017,148,3.9,80.36,44
+642,Última Chance 642,Maria Oliveira,Comédia,1994,88,3.1,56.63,36
+643,Luz da Esperança 643,John Smith,Fantasia,1999,95,4.7,48.54,34
+644,No Limite 644,Ana Costa,Ficção Científica,1986,166,1.4,24.05,47
+645,Luz da Esperança 645,Lucas Santos,Ação,2011,168,3.4,36.39,50
+646,Última Chance 646,John Smith,Comédia,2009,152,1.8,73.65,2
+647,Última Chance 647,John Smith,Fantasia,2009,173,1.6,88.94,30
+648,Segredos do Tempo 648,John Smith,Drama,2009,149,5.0,68.98,33
+649,O Início 649,Jane Doe,Terror,1996,111,3.7,14.86,32
+650,O Início 650,Lucas Santos,Fantasia,1992,133,1.5,49.69,12
+651,No Limite 651,Ana Costa,Terror,2017,170,4.5,27.05,1
+652,A Jornada 652,Maria Oliveira,Ficção Científica,1996,134,1.7,41.56,39
+653,No Limite 653,Ana Costa,Fantasia,2024,179,4.5,60.39,40
+654,Luz da Esperança 654,Lucas Santos,Ficção Científica,2021,119,3.4,98.29,25
+655,Luz da Esperança 655,John Smith,Ação,1993,116,2.3,23.27,46
+656,O Retorno 656,Maria Oliveira,Ação,2003,130,4.7,12.03,39
+657,Segredos do Tempo 657,Lucas Santos,Ficção Científica,1990,126,4.9,37.68,1
+658,A Jornada 658,Jane Doe,Romance,1988,150,3.7,82.97,17
+659,Sombras 659,Lucas Santos,Comédia,1991,113,1.8,46.32,24
+660,Última Chance 660,Ana Costa,Comédia,1988,114,1.1,49.3,37
+661,Sombras 661,Ana Costa,Ação,1998,150,2.5,86.28,21
+662,Segredos do Tempo 662,Maria Oliveira,Fantasia,1983,91,4.0,20.91,39
+663,Além das Estrelas 663,Jane Doe,Drama,2002,110,4.9,15.55,9
+664,O Retorno 664,Ana Costa,Ação,1982,116,2.4,32.45,38
+665,Segredos do Tempo 665,Lucas Santos,Comédia,2012,179,4.7,68.74,3
+666,Sombras 666,Jane Doe,Fantasia,2018,153,3.2,86.65,38
+667,Segredos do Tempo 667,Maria Oliveira,Drama,2001,165,3.8,39.55,35
+668,A Jornada 668,John Smith,Romance,1992,143,5.0,57.71,19
+669,Última Chance 669,Ana Costa,Comédia,2001,168,3.0,14.26,39
+670,Luz da Esperança 670,Carlos Silva,Drama,1990,144,4.3,80.83,11
+671,Além das Estrelas 671,John Smith,Ação,2007,88,1.3,21.06,6
+672,Luz da Esperança 672,Ana Costa,Fantasia,2022,142,1.3,45.57,42
+673,Segredos do Tempo 673,Maria Oliveira,Romance,2006,136,2.6,94.32,21
+674,O Retorno 674,John Smith,Ficção Científica,2023,88,2.7,26.14,9
+675,Segredos do Tempo 675,John Smith,Terror,1993,177,1.5,52.95,46
+676,Sombras 676,Jane Doe,Drama,2016,161,1.2,90.51,21
+677,O Retorno 677,Carlos Silva,Terror,2024,172,2.9,26.91,12
+678,No Limite 678,John Smith,Comédia,2015,119,3.3,84.25,8
+679,Luz da Esperança 679,Maria Oliveira,Romance,2016,135,1.8,95.37,5
+680,Sombras 680,Maria Oliveira,Terror,1996,135,4.0,53.72,39
+681,O Retorno 681,Jane Doe,Terror,2001,123,2.7,93.76,40
+682,Destino Final 682,Carlos Silva,Ficção Científica,1997,170,2.9,71.03,44
+683,O Retorno 683,Lucas Santos,Ação,1994,159,4.3,63.43,50
+684,A Jornada 684,John Smith,Drama,1996,159,3.0,66.41,5
+685,Destino Final 685,Jane Doe,Ação,1995,143,1.5,11.31,33
+686,Sombras 686,Carlos Silva,Romance,2025,159,1.3,21.5,13
+687,Luz da Esperança 687,Lucas Santos,Ficção Científica,2005,143,2.4,21.13,19
+688,O Início 688,Lucas Santos,Ficção Científica,1999,161,1.3,73.01,18
+689,Destino Final 689,Lucas Santos,Ficção Científica,2013,109,2.3,12.76,24
+690,O Retorno 690,Ana Costa,Terror,1987,172,2.4,81.37,44
+691,O Retorno 691,John Smith,Ação,2016,128,3.9,47.12,39
+692,A Jornada 692,Ana Costa,Ficção Científica,1984,97,2.3,55.65,0
+693,Sombras 693,John Smith,Comédia,2000,97,3.3,91.0,13
+694,No Limite 694,John Smith,Comédia,1981,131,4.1,94.76,36
+695,O Início 695,Ana Costa,Fantasia,2008,109,2.6,77.87,35
+696,O Início 696,Ana Costa,Drama,2007,119,3.8,41.04,6
+697,Última Chance 697,Carlos Silva,Drama,2023,143,2.0,98.43,7
+698,Última Chance 698,Lucas Santos,Fantasia,2010,132,2.7,60.72,43
+699,Última Chance 699,John Smith,Fantasia,2007,165,3.5,37.51,31
+700,O Início 700,Jane Doe,Comédia,2012,117,1.6,31.55,42
+701,Última Chance 701,John Smith,Drama,1980,89,1.6,30.55,14
+702,Destino Final 702,Jane Doe,Terror,1991,168,2.3,78.0,42
+703,Segredos do Tempo 703,Jane Doe,Ficção Científica,2011,134,1.6,91.51,15
+704,Destino Final 704,Jane Doe,Ação,2002,126,3.8,82.73,25
+705,Sombras 705,John Smith,Ação,2003,126,4.7,60.76,41
+706,Além das Estrelas 706,Maria Oliveira,Fantasia,1986,155,4.0,96.08,38
+707,O Retorno 707,John Smith,Ficção Científica,2008,178,1.1,22.63,5
+708,Última Chance 708,John Smith,Fantasia,2024,117,1.0,84.72,3
+709,Luz da Esperança 709,John Smith,Fantasia,2017,144,2.7,17.02,47
+710,Sombras 710,Jane Doe,Comédia,2019,129,3.2,44.41,4
+711,A Jornada 711,John Smith,Romance,2019,123,2.8,83.56,42
+712,Sombras 712,Jane Doe,Terror,2024,168,4.2,79.94,39
+713,Destino Final 713,Lucas Santos,Comédia,1988,85,4.5,92.6,10
+714,Luz da Esperança 714,Maria Oliveira,Drama,2013,124,4.8,69.71,30
+715,Segredos do Tempo 715,Maria Oliveira,Drama,2024,146,3.8,23.25,9
+716,No Limite 716,Maria Oliveira,Terror,1981,164,2.4,75.88,34
+717,O Início 717,Lucas Santos,Romance,2023,97,3.7,20.73,34
+718,O Retorno 718,Jane Doe,Romance,2015,131,3.0,25.23,43
+719,O Início 719,Carlos Silva,Ficção Científica,2025,179,1.5,51.74,11
+720,Luz da Esperança 720,Ana Costa,Drama,1991,145,3.0,37.2,18
+721,Última Chance 721,Jane Doe,Ficção Científica,2024,139,2.2,48.89,30
+722,Sombras 722,Maria Oliveira,Ação,1993,91,2.4,79.48,43
+723,Última Chance 723,Ana Costa,Ficção Científica,2021,85,2.0,99.72,32
+724,A Jornada 724,Maria Oliveira,Fantasia,1986,103,4.0,98.58,34
+725,Destino Final 725,John Smith,Terror,1993,115,2.5,72.4,11
+726,Além das Estrelas 726,Maria Oliveira,Ação,1990,143,1.5,18.41,37
+727,Além das Estrelas 727,Ana Costa,Romance,2014,113,4.2,68.51,22
+728,O Início 728,Carlos Silva,Comédia,1982,97,1.4,98.92,2
+729,Sombras 729,Lucas Santos,Comédia,1996,87,2.5,36.64,3
+730,Além das Estrelas 730,Carlos Silva,Fantasia,2010,163,3.2,15.56,6
+731,O Retorno 731,Carlos Silva,Ação,1985,116,2.2,72.12,0
+732,O Retorno 732,Maria Oliveira,Ação,1995,98,1.9,22.13,5
+733,A Jornada 733,Carlos Silva,Comédia,1989,146,3.7,28.49,12
+734,Segredos do Tempo 734,John Smith,Terror,2018,171,2.2,81.02,23
+735,Além das Estrelas 735,Carlos Silva,Romance,1993,173,2.3,65.68,45
+736,Luz da Esperança 736,Maria Oliveira,Ficção Científica,2014,169,3.6,47.13,2
+737,A Jornada 737,Carlos Silva,Romance,2021,89,2.8,31.35,12
+738,Segredos do Tempo 738,Ana Costa,Comédia,1985,119,2.7,61.07,48
+739,A Jornada 739,Maria Oliveira,Romance,2005,87,2.7,82.15,11
+740,Segredos do Tempo 740,Ana Costa,Ficção Científica,2003,147,2.8,17.24,36
+741,Última Chance 741,Ana Costa,Drama,2022,88,2.7,58.52,20
+742,Além das Estrelas 742,John Smith,Terror,2017,164,4.2,44.18,48
+743,Além das Estrelas 743,Ana Costa,Ação,2003,126,1.5,40.44,33
+744,Última Chance 744,John Smith,Comédia,2025,127,1.9,12.14,33
+745,O Início 745,John Smith,Drama,1992,173,3.5,64.81,24
+746,Destino Final 746,Maria Oliveira,Ação,1980,114,5.0,62.45,17
+747,Além das Estrelas 747,Lucas Santos,Comédia,2012,137,1.3,29.12,28
+748,Destino Final 748,Ana Costa,Romance,2011,131,3.7,63.45,28
+749,Segredos do Tempo 749,Lucas Santos,Ação,2011,170,2.3,97.24,16
+750,Última Chance 750,Lucas Santos,Comédia,2002,161,3.2,74.94,33
+751,Sombras 751,Lucas Santos,Ação,1997,90,2.3,36.19,4
+752,O Retorno 752,Jane Doe,Terror,2008,110,2.7,67.84,48
+753,Sombras 753,Ana Costa,Ação,1990,145,2.7,75.2,12
+754,Além das Estrelas 754,Carlos Silva,Drama,2000,118,4.9,99.84,28
+755,Destino Final 755,Maria Oliveira,Drama,1982,102,4.0,70.76,8
+756,Última Chance 756,Maria Oliveira,Comédia,1996,101,1.4,60.13,24
+757,Última Chance 757,Ana Costa,Terror,2018,156,3.4,40.7,1
+758,A Jornada 758,Carlos Silva,Romance,1984,136,1.6,49.05,50
+759,Última Chance 759,Maria Oliveira,Ficção Científica,2021,144,2.5,97.44,6
+760,Última Chance 760,Maria Oliveira,Ficção Científica,2004,145,1.4,98.43,18
+761,Segredos do Tempo 761,Maria Oliveira,Ação,2023,90,1.9,99.93,1
+762,Destino Final 762,Maria Oliveira,Ficção Científica,2011,94,2.9,47.7,11
+763,No Limite 763,Maria Oliveira,Drama,2003,84,3.2,50.49,25
+764,Sombras 764,Maria Oliveira,Terror,1995,174,2.8,91.79,16
+765,Luz da Esperança 765,Jane Doe,Ficção Científica,2004,179,2.8,32.71,0
+766,Última Chance 766,Lucas Santos,Romance,1996,134,1.3,39.26,4
+767,No Limite 767,Maria Oliveira,Ação,2008,141,1.5,23.22,6
+768,No Limite 768,John Smith,Drama,2019,127,3.6,36.26,4
+769,Além das Estrelas 769,Carlos Silva,Romance,2004,180,3.8,12.49,12
+770,Além das Estrelas 770,Carlos Silva,Ficção Científica,2015,178,3.7,10.81,10
+771,Segredos do Tempo 771,John Smith,Terror,2022,170,1.5,77.57,0
+772,Luz da Esperança 772,Maria Oliveira,Drama,1999,109,4.5,96.76,33
+773,A Jornada 773,John Smith,Romance,2006,151,2.3,25.82,33
+774,Última Chance 774,Lucas Santos,Ação,1990,180,4.5,86.65,30
+775,O Início 775,Maria Oliveira,Drama,2009,105,4.7,64.2,27
+776,Sombras 776,Ana Costa,Terror,2000,116,2.5,94.66,37
+777,No Limite 777,Ana Costa,Terror,2009,103,2.9,47.81,21
+778,No Limite 778,Carlos Silva,Terror,1989,99,3.5,72.17,43
+779,No Limite 779,Carlos Silva,Fantasia,2006,124,4.3,59.95,0
+780,Segredos do Tempo 780,Carlos Silva,Ficção Científica,2000,166,4.6,18.57,39
+781,A Jornada 781,Lucas Santos,Ação,2022,123,3.6,22.36,44
+782,O Retorno 782,Maria Oliveira,Comédia,1980,113,1.5,21.06,6
+783,Além das Estrelas 783,Carlos Silva,Ficção Científica,2004,121,4.3,49.56,9
+784,Além das Estrelas 784,John Smith,Fantasia,2013,160,2.2,32.16,48
+785,Destino Final 785,Lucas Santos,Ação,2017,85,2.1,88.08,12
+786,A Jornada 786,Maria Oliveira,Ação,1984,144,2.6,64.16,49
+787,Segredos do Tempo 787,Ana Costa,Comédia,1997,95,2.9,50.4,3
+788,Sombras 788,Lucas Santos,Romance,2003,129,2.4,10.87,24
+789,O Retorno 789,John Smith,Fantasia,1996,162,2.1,61.39,41
+790,Segredos do Tempo 790,Carlos Silva,Comédia,1982,158,4.4,20.12,28
+791,Luz da Esperança 791,Carlos Silva,Terror,2002,132,2.4,14.75,16
+792,A Jornada 792,John Smith,Drama,1982,133,4.1,37.47,28
+793,No Limite 793,Carlos Silva,Fantasia,2002,174,3.9,51.58,49
+794,No Limite 794,Maria Oliveira,Ficção Científica,1989,152,4.5,89.76,40
+795,Luz da Esperança 795,Jane Doe,Fantasia,2011,128,1.6,10.84,31
+796,Além das Estrelas 796,Lucas Santos,Drama,1981,102,1.7,64.74,15
+797,Segredos do Tempo 797,John Smith,Ação,2010,167,2.3,81.89,7
+798,Luz da Esperança 798,Jane Doe,Drama,2021,163,3.3,30.56,11
+799,A Jornada 799,Lucas Santos,Fantasia,2000,105,4.7,62.94,43
+800,Luz da Esperança 800,John Smith,Ação,2001,180,4.1,94.95,13
+801,Luz da Esperança 801,Jane Doe,Ficção Científica,1982,159,2.2,44.41,45
+802,Luz da Esperança 802,Lucas Santos,Drama,1990,159,3.1,58.56,7
+803,No Limite 803,Ana Costa,Comédia,2009,126,4.0,69.63,14
+804,Luz da Esperança 804,Carlos Silva,Drama,1980,134,2.2,83.94,16
+805,O Retorno 805,Lucas Santos,Drama,2015,169,4.3,62.31,34
+806,Sombras 806,Ana Costa,Terror,1982,89,2.0,25.96,4
+807,Destino Final 807,Ana Costa,Comédia,1999,156,4.6,79.32,11
+808,O Início 808,Ana Costa,Romance,1992,94,3.4,60.33,26
+809,Segredos do Tempo 809,Lucas Santos,Fantasia,1986,93,3.1,25.1,30
+810,Destino Final 810,Jane Doe,Terror,2018,95,4.9,57.28,34
+811,No Limite 811,John Smith,Romance,2025,91,1.6,13.16,15
+812,No Limite 812,Carlos Silva,Ação,1981,150,4.0,34.34,29
+813,O Retorno 813,Lucas Santos,Drama,1982,115,3.8,46.43,12
+814,O Retorno 814,John Smith,Ficção Científica,1995,113,4.9,64.55,40
+815,Além das Estrelas 815,Jane Doe,Fantasia,2010,153,4.3,47.85,46
+816,A Jornada 816,John Smith,Ação,1983,130,2.5,53.01,26
+817,O Início 817,Maria Oliveira,Romance,2009,118,2.4,54.12,11
+818,Segredos do Tempo 818,John Smith,Ação,2020,180,2.4,56.33,28
+819,O Início 819,John Smith,Ficção Científica,2012,173,1.2,51.88,28
+820,O Início 820,John Smith,Fantasia,1983,154,2.8,97.63,37
+821,O Retorno 821,Jane Doe,Terror,2023,132,2.3,91.14,20
+822,O Retorno 822,Carlos Silva,Romance,2023,152,1.8,10.22,12
+823,Destino Final 823,Ana Costa,Terror,2021,107,4.7,79.1,45
+824,Segredos do Tempo 824,John Smith,Ação,2001,145,3.4,42.53,1
+825,Além das Estrelas 825,Maria Oliveira,Ficção Científica,1991,82,4.8,11.19,48
+826,Além das Estrelas 826,Jane Doe,Terror,2012,110,1.8,91.17,31
+827,O Retorno 827,Carlos Silva,Ação,2001,81,4.4,89.1,47
+828,Segredos do Tempo 828,Jane Doe,Comédia,2020,113,2.6,49.93,44
+829,A Jornada 829,John Smith,Ação,1999,176,3.8,78.63,2
+830,Sombras 830,Ana Costa,Comédia,2009,153,3.6,48.34,29
+831,Sombras 831,Ana Costa,Ficção Científica,1989,123,1.1,96.85,39
+832,O Início 832,Carlos Silva,Drama,1996,120,3.7,25.94,0
+833,Além das Estrelas 833,Carlos Silva,Terror,2015,101,1.2,86.1,8
+834,No Limite 834,Jane Doe,Ficção Científica,1987,120,1.6,27.71,15
+835,Além das Estrelas 835,Carlos Silva,Ação,2006,179,2.8,66.22,1
+836,Sombras 836,Jane Doe,Comédia,2023,95,3.2,29.29,5
+837,O Início 837,John Smith,Ficção Científica,2016,103,2.1,85.64,34
+838,Luz da Esperança 838,Ana Costa,Terror,2011,146,4.7,58.08,8
+839,Segredos do Tempo 839,Maria Oliveira,Fantasia,2007,166,1.8,32.59,22
+840,Segredos do Tempo 840,John Smith,Drama,2014,163,4.5,68.06,31
+841,O Retorno 841,Carlos Silva,Fantasia,2024,164,2.7,94.55,45
+842,Última Chance 842,Maria Oliveira,Ficção Científica,2025,114,1.8,30.22,21
+843,O Início 843,Carlos Silva,Terror,1984,139,3.4,55.5,3
+844,Além das Estrelas 844,Lucas Santos,Fantasia,1998,180,4.1,17.0,12
+845,No Limite 845,Carlos Silva,Ficção Científica,1998,87,4.3,42.35,35
+846,Sombras 846,Carlos Silva,Comédia,2014,172,4.1,80.46,8
+847,Segredos do Tempo 847,Ana Costa,Comédia,1982,170,3.6,69.66,43
+848,Destino Final 848,Maria Oliveira,Drama,2013,161,4.3,79.9,3
+849,Segredos do Tempo 849,John Smith,Comédia,2015,127,3.1,12.59,49
+850,Além das Estrelas 850,John Smith,Drama,2025,138,3.2,73.52,6
+851,O Retorno 851,Jane Doe,Drama,2005,86,1.0,60.63,43
+852,Além das Estrelas 852,Ana Costa,Ação,2015,99,1.3,18.3,39
+853,Luz da Esperança 853,Maria Oliveira,Drama,1992,104,4.8,45.98,41
+854,O Início 854,John Smith,Comédia,2023,114,4.4,18.01,44
+855,A Jornada 855,Jane Doe,Terror,2003,96,1.9,45.82,6
+856,Sombras 856,Ana Costa,Romance,1983,97,3.6,59.82,3
+857,Última Chance 857,John Smith,Terror,1995,149,2.0,29.36,22
+858,Destino Final 858,John Smith,Fantasia,2011,119,1.2,33.18,46
+859,Sombras 859,Carlos Silva,Ação,1987,114,1.5,90.51,46
+860,Além das Estrelas 860,Carlos Silva,Ficção Científica,1992,84,1.7,31.98,11
+861,No Limite 861,Jane Doe,Terror,2015,168,3.9,67.06,28
+862,Sombras 862,Lucas Santos,Romance,1990,163,4.1,13.0,0
+863,O Início 863,Carlos Silva,Fantasia,1983,96,1.8,30.89,34
+864,Última Chance 864,Carlos Silva,Fantasia,1981,155,4.5,29.84,29
+865,A Jornada 865,Carlos Silva,Fantasia,1993,147,4.6,30.5,10
+866,Além das Estrelas 866,Carlos Silva,Ação,1997,92,3.0,44.81,20
+867,Destino Final 867,Lucas Santos,Drama,1988,163,3.7,34.64,9
+868,No Limite 868,Carlos Silva,Ficção Científica,2006,80,3.5,82.65,3
+869,Última Chance 869,Jane Doe,Fantasia,2000,158,1.5,10.05,24
+870,A Jornada 870,Ana Costa,Ficção Científica,2025,102,1.1,66.56,7
+871,Além das Estrelas 871,Jane Doe,Romance,2012,121,3.7,21.51,48
+872,No Limite 872,John Smith,Terror,2025,145,1.8,57.22,22
+873,O Retorno 873,Maria Oliveira,Fantasia,1991,100,2.8,75.09,0
+874,O Retorno 874,Jane Doe,Drama,1987,153,1.3,57.76,50
+875,A Jornada 875,John Smith,Fantasia,2008,107,2.1,64.08,34
+876,Segredos do Tempo 876,John Smith,Comédia,1993,175,2.7,53.31,4
+877,Sombras 877,Jane Doe,Comédia,2013,105,1.2,87.14,17
+878,Sombras 878,Lucas Santos,Romance,2014,105,4.4,35.48,29
+879,Além das Estrelas 879,Jane Doe,Ação,2019,128,1.5,61.06,29
+880,Luz da Esperança 880,Lucas Santos,Fantasia,2001,158,1.8,36.37,12
+881,Sombras 881,Carlos Silva,Terror,2003,179,2.4,46.63,6
+882,O Retorno 882,Ana Costa,Terror,1985,173,2.8,69.5,9
+883,No Limite 883,John Smith,Terror,2008,140,3.1,34.22,17
+884,Destino Final 884,Ana Costa,Romance,2016,92,2.9,88.6,4
+885,Além das Estrelas 885,Maria Oliveira,Drama,1999,139,2.9,33.16,36
+886,O Início 886,Carlos Silva,Drama,2001,164,2.1,59.74,23
+887,A Jornada 887,Ana Costa,Comédia,2020,143,2.3,42.0,36
+888,Luz da Esperança 888,Carlos Silva,Comédia,1991,101,1.7,95.84,0
+889,A Jornada 889,Maria Oliveira,Drama,1987,179,1.4,21.95,26
+890,O Início 890,Maria Oliveira,Terror,1988,83,1.8,95.19,30
+891,O Início 891,John Smith,Terror,2009,122,4.0,38.2,7
+892,Luz da Esperança 892,Ana Costa,Terror,2007,178,2.0,62.61,13
+893,Sombras 893,Jane Doe,Romance,2000,133,3.5,98.0,39
+894,Segredos do Tempo 894,Maria Oliveira,Romance,1993,91,4.5,84.9,22
+895,Além das Estrelas 895,Lucas Santos,Fantasia,2002,85,1.6,36.83,9
+896,Luz da Esperança 896,Carlos Silva,Fantasia,2024,156,4.3,44.28,9
+897,O Início 897,Carlos Silva,Drama,1989,98,4.4,45.31,8
+898,Luz da Esperança 898,Ana Costa,Romance,2001,170,3.9,98.24,8
+899,O Início 899,Carlos Silva,Ação,2016,172,4.8,62.23,31
+900,A Jornada 900,Jane Doe,Terror,1995,92,2.6,21.57,4
+901,O Retorno 901,Ana Costa,Ficção Científica,1988,95,3.5,30.44,40
+902,Além das Estrelas 902,Maria Oliveira,Comédia,1985,139,4.7,96.47,22
+903,Luz da Esperança 903,Ana Costa,Drama,2005,165,4.5,94.67,39
+904,O Início 904,Lucas Santos,Romance,1991,139,3.4,27.32,29
+905,Sombras 905,Lucas Santos,Ficção Científica,2014,103,3.0,59.04,33
+906,Além das Estrelas 906,Ana Costa,Drama,2008,147,1.4,39.55,41
+907,O Retorno 907,Maria Oliveira,Fantasia,1984,89,1.8,22.63,31
+908,Segredos do Tempo 908,Maria Oliveira,Drama,1983,106,3.0,27.18,26
+909,A Jornada 909,Carlos Silva,Drama,1993,119,4.6,70.25,10
+910,O Retorno 910,Maria Oliveira,Fantasia,2013,155,4.6,81.48,43
+911,No Limite 911,Carlos Silva,Terror,2020,156,3.4,30.57,25
+912,Última Chance 912,Lucas Santos,Ficção Científica,1986,145,4.3,84.1,10
+913,Sombras 913,Lucas Santos,Ação,1987,153,4.2,98.45,43
+914,Sombras 914,Ana Costa,Romance,1982,177,3.8,99.82,5
+915,O Retorno 915,Lucas Santos,Romance,1980,104,4.3,95.72,2
+916,Destino Final 916,Lucas Santos,Ficção Científica,2010,142,2.1,77.11,40
+917,Sombras 917,Carlos Silva,Ação,1991,113,1.6,52.27,17
+918,Sombras 918,John Smith,Ação,2018,134,1.1,47.8,17
+919,Segredos do Tempo 919,Carlos Silva,Terror,2021,85,4.1,66.34,14
+920,No Limite 920,Ana Costa,Drama,1995,164,3.7,33.16,40
+921,Segredos do Tempo 921,Jane Doe,Terror,1996,89,1.9,84.72,16
+922,O Retorno 922,Maria Oliveira,Romance,2023,137,1.5,44.77,19
+923,O Início 923,John Smith,Ação,2001,118,4.7,77.62,33
+924,Última Chance 924,Maria Oliveira,Fantasia,2001,90,2.8,70.05,35
+925,O Início 925,Jane Doe,Drama,1983,166,1.6,73.12,33
+926,A Jornada 926,John Smith,Ação,1992,161,2.6,32.83,27
+927,O Início 927,Jane Doe,Ação,1987,135,2.2,38.62,4
+928,A Jornada 928,Ana Costa,Drama,2000,146,4.6,12.04,22
+929,Sombras 929,John Smith,Drama,1989,171,1.8,97.49,24
+930,Destino Final 930,Jane Doe,Ficção Científica,1987,142,1.7,51.33,8
+931,Última Chance 931,John Smith,Terror,1998,149,3.1,13.05,24
+932,No Limite 932,Jane Doe,Comédia,2009,81,4.5,78.23,46
+933,O Retorno 933,Jane Doe,Romance,2006,103,4.4,22.27,12
+934,Sombras 934,Maria Oliveira,Terror,1992,146,1.4,18.25,50
+935,O Retorno 935,Carlos Silva,Ficção Científica,2010,128,3.2,99.14,47
+936,Sombras 936,Jane Doe,Romance,1998,123,3.0,87.03,46
+937,Sombras 937,Carlos Silva,Ficção Científica,2025,91,4.3,61.08,31
+938,Segredos do Tempo 938,Ana Costa,Ficção Científica,2000,125,5.0,74.99,44
+939,O Retorno 939,Carlos Silva,Romance,2000,152,2.4,35.65,27
+940,Além das Estrelas 940,Carlos Silva,Fantasia,2007,113,3.2,64.5,25
+941,Além das Estrelas 941,Ana Costa,Ação,1980,165,2.1,45.53,19
+942,Sombras 942,John Smith,Fantasia,1983,156,3.0,20.48,41
+943,Sombras 943,Carlos Silva,Ação,2009,96,2.1,47.87,5
+944,Sombras 944,John Smith,Romance,2017,92,5.0,55.89,7
+945,Luz da Esperança 945,Maria Oliveira,Ação,2001,102,2.0,74.03,38
+946,Última Chance 946,Lucas Santos,Drama,1995,170,3.1,97.28,31
+947,Segredos do Tempo 947,Carlos Silva,Fantasia,1980,156,2.1,57.33,28
+948,Sombras 948,Lucas Santos,Comédia,1987,167,2.9,77.95,43
+949,Segredos do Tempo 949,Maria Oliveira,Terror,1989,105,3.3,13.55,16
+950,Além das Estrelas 950,Jane Doe,Drama,2000,91,1.4,91.75,24
+951,No Limite 951,Maria Oliveira,Drama,2015,153,4.5,47.71,48
+952,A Jornada 952,Ana Costa,Romance,1984,85,4.0,23.64,11
+953,Segredos do Tempo 953,John Smith,Romance,2015,105,3.9,49.68,0
+954,O Início 954,Carlos Silva,Comédia,1996,168,2.3,89.87,50
+955,Sombras 955,Carlos Silva,Ação,2015,96,3.0,54.24,6
+956,O Início 956,John Smith,Fantasia,1989,130,4.0,17.59,47
+957,A Jornada 957,Maria Oliveira,Fantasia,2010,170,3.0,32.38,50
+958,Destino Final 958,John Smith,Terror,1987,118,2.3,99.28,37
+959,No Limite 959,John Smith,Romance,1986,141,3.3,69.05,26
+960,A Jornada 960,Carlos Silva,Ficção Científica,2017,142,4.5,52.7,24
+961,No Limite 961,Maria Oliveira,Ação,1999,131,2.1,10.37,10
+962,No Limite 962,Jane Doe,Ação,2015,122,4.2,18.55,29
+963,Sombras 963,Ana Costa,Drama,1992,156,2.7,61.39,7
+964,Destino Final 964,Lucas Santos,Romance,1988,172,4.2,16.84,11
+965,Luz da Esperança 965,Ana Costa,Romance,1996,82,1.2,20.31,12
+966,Última Chance 966,John Smith,Comédia,2012,172,3.0,26.51,9
+967,Além das Estrelas 967,Lucas Santos,Romance,1998,80,2.2,46.28,14
+968,O Retorno 968,Lucas Santos,Ficção Científica,2024,91,3.1,65.7,16
+969,Segredos do Tempo 969,Jane Doe,Drama,1988,107,4.6,79.54,23
+970,O Início 970,Lucas Santos,Drama,1994,83,4.5,57.61,11
+971,Destino Final 971,Jane Doe,Drama,2012,99,2.4,54.0,34
+972,Última Chance 972,Lucas Santos,Comédia,2012,160,3.8,81.61,17
+973,Segredos do Tempo 973,Maria Oliveira,Drama,2008,148,1.4,77.57,9
+974,Além das Estrelas 974,Maria Oliveira,Drama,1988,124,1.9,54.2,15
+975,O Início 975,Jane Doe,Fantasia,1986,171,3.2,68.34,14
+976,Além das Estrelas 976,Ana Costa,Ação,1985,173,1.9,47.71,1
+977,Segredos do Tempo 977,Ana Costa,Ação,2007,154,3.2,96.68,26
+978,O Início 978,Lucas Santos,Romance,1992,96,3.0,74.14,44
+979,Destino Final 979,Jane Doe,Ação,1997,96,3.8,15.79,41
+980,Última Chance 980,Carlos Silva,Romance,1996,111,1.4,69.77,35
+981,No Limite 981,John Smith,Terror,2021,115,3.8,42.56,4
+982,O Início 982,Ana Costa,Drama,2015,83,2.9,51.42,13
+983,Luz da Esperança 983,Ana Costa,Comédia,1994,105,4.0,69.64,9
+984,Luz da Esperança 984,Jane Doe,Romance,2020,163,2.5,29.44,33
+985,O Retorno 985,Carlos Silva,Comédia,2012,126,3.3,20.82,33
+986,A Jornada 986,Ana Costa,Romance,2014,134,5.0,49.95,30
+987,Segredos do Tempo 987,Carlos Silva,Ficção Científica,2018,85,2.6,12.17,50
+988,O Início 988,Carlos Silva,Terror,1999,143,4.0,12.46,4
+989,O Início 989,Ana Costa,Ficção Científica,2020,130,4.0,22.73,1
+990,No Limite 990,Carlos Silva,Terror,1989,94,1.8,65.24,6
+991,Destino Final 991,John Smith,Romance,1998,85,2.1,34.09,17
+992,A Jornada 992,Lucas Santos,Terror,2016,112,4.4,23.77,15
+993,Sombras 993,Ana Costa,Fantasia,2023,150,4.5,23.35,25
+994,Luz da Esperança 994,Lucas Santos,Ação,1994,102,2.1,73.55,7
+995,O Retorno 995,Lucas Santos,Fantasia,2003,133,3.1,92.12,47
+996,Sombras 996,Maria Oliveira,Fantasia,1983,155,2.9,55.63,29
+997,A Jornada 997,Lucas Santos,Drama,2008,133,1.6,60.8,7
+998,O Início 998,John Smith,Ficção Científica,2015,115,2.9,54.21,26
+999,Além das Estrelas 999,John Smith,Terror,2021,92,2.9,81.66,0
+1000,O Retorno 1000,Jane Doe,Ação,2005,121,3.1,91.71,12

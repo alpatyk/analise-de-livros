@@ -1,9 +1,18 @@
-<!doctype html><html><head>
-<meta charset='utf-8'><title>Análise</title>
-<link href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css' rel='stylesheet'>
-</head><body class='p-4'>
-<h1>Análise de Dados</h1>
-<img src="/static/graficos/distrib_preco.png" width="450">
-<img src="/static/graficos/preco_genero.png" width="450">
-<a href="/" class="btn btn-secondary mt-3">Voltar</a>
-</body></html>
+{% extends "index.html" %}
+
+{% block content %}
+<h2>Análise de Dados</h2>
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <h5>Distribuição dos Preços</h5>
+        <img src="/static/graficos/distrib_preco.png" class="img-fluid rounded border">
+    </div>
+
+    <div class="col-md-6">
+        <h5>Preço Médio por Gênero</h5>
+        <img src="/static/graficos/preco_genero.png" class="img-fluid rounded border">
+    </div>
+</div>
+
+{% endblock %}

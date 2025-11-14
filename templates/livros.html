@@ -1,0 +1,47 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h2>Lista de Livros</h2>
+
+{% if livros %}
+<table class="table table-striped table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Gênero</th>
+            <th>Ano</th>
+            <th>Páginas</th>
+            <th>Avaliação</th>
+            <th>Preço</th>
+            <th>Estoque</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for livro in livros %}
+        <tr>
+            <td>{{ livro.id }}</td>
+            <td>{{ livro.titulo }}</td>
+            <td>{{ livro.autor }}</td>
+            <td>{{ livro.genero }}</td>
+            <td>{{ livro.ano_publicacao }}</td>
+            <td>{{ livro.paginas }}</td>
+            <td>{{ livro.avaliacao }}</td>
+            <td>R$ {{ livro.preco }}</td>
+            <td>{{ livro.estoque }}</td>
+            <td>
+                <a class="btn btn-sm btn-warning" href="/livros/editar/{{ livro.id }}">Editar</a>
+                <a class="btn btn-sm btn-danger" href="/livros/excluir/{{ livro.id }}">Excluir</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% else %}
+<p>Nenhum livro cadastrado.</p>
+{% endif %}
+
+{% endblock %}

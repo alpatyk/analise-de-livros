@@ -1,24 +1,47 @@
-<!doctype html><html><head>
-<meta charset='utf-8'><title>Livros</title>
-<link href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css' rel='stylesheet'>
-</head><body class='p-4'>
-<h1>Lista de Livros</h1>
-<a href="/livros/novo" class="btn btn-success mb-3">Novo Livro</a>
-<table class="table table-striped">
-<tr><th>ID</th><th>Título</th><th>Autor</th><th>Gênero</th><th>Preço</th><th>Ações</th></tr>
-{% for l in livros %}
-<tr>
-<td>{{l.id}}</td>
-<td>{{l.titulo}}</td>
-<td>{{l.autor}}</td>
-<td>{{l.genero}}</td>
-<td>R$ {{l.preco}}</td>
-<td>
-<a href="/livros/editar/{{l.id}}" class="btn btn-warning btn-sm">Editar</a>
-<a href="/livros/excluir/{{l.id}}" class="btn btn-danger btn-sm">Excluir</a>
-</td>
-</tr>
-{% endfor %}
+{% extends "index.html" %}
+
+{% block content %}
+<h2>Lista de Livros</h2>
+
+{% if livros %}
+<table class="table table-striped table-bordered mt-3">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Gênero</th>
+            <th>Ano</th>
+            <th>Páginas</th>
+            <th>Avaliação</th>
+            <th>Preço</th>
+            <th>Estoque</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for livro in livros %}
+        <tr>
+            <td>{{ livro.id }}</td>
+            <td>{{ livro.titulo }}</td>
+            <td>{{ livro.autor }}</td>
+            <td>{{ livro.genero }}</td>
+            <td>{{ livro.ano_publicacao }}</td>
+            <td>{{ livro.paginas }}</td>
+            <td>{{ livro.avaliacao }}</td>
+            <td>R$ {{ livro.preco }}</td>
+            <td>{{ livro.estoque }}</td>
+            <td>
+                <a class="btn btn-sm btn-warning" href="/livros/editar/{{ livro.id }}">Editar</a>
+                <a class="btn btn-sm btn-danger" href="/livros/excluir/{{ livro.id }}">Excluir</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
 </table>
-<a href="/" class="btn btn-secondary">Voltar</a>
-</body></html>
+
+{% else %}
+<p>Nenhum livro cadastrado.</p>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h2>Prévia do CSV Selecionado</h2>
+
+{% if dados %}
+<div class="table-responsive mt-3">
+    {{ dados|safe }}
+</div>
+{% else %}
+<p class="text-danger">Nenhum dado encontrado no CSV.</p>
+{% endif %}
+
+<a href="/selecionar_csv" class="btn btn-secondary mt-3">Voltar</a>
+{% endblock %}
