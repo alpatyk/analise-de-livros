@@ -1,0 +1,18 @@
+<!doctype html><html><head>
+<meta charset='utf-8'><title>Livro</title>
+<link href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css' rel='stylesheet'>
+</head><body class='p-4'>
+<h1>{{ 'Editar' if livro else 'Novo Livro' }}</h1>
+<form method="post">
+<input name="titulo" class="form-control mb-2" placeholder="Título" value="{{livro.titulo if livro}}">
+<input name="autor" class="form-control mb-2" placeholder="Autor" value="{{livro.autor if livro}}">
+<input name="genero" class="form-control mb-2" placeholder="Gênero" value="{{livro.genero if livro}}">
+<input name="ano_publicacao" class="form-control mb-2" placeholder="Ano" value="{{livro.ano_publicacao if livro}}">
+<input name="paginas" class="form-control mb-2" placeholder="Páginas" value="{{livro.paginas if livro}}">
+<input name="avaliacao" class="form-control mb-2" placeholder="Avaliação" value="{{livro.avaliacao if livro}}">
+<input name="preco" class="form-control mb-2" placeholder="Preço" value="{{livro.preco if livro}}">
+<input name="estoque" class="form-control mb-2" placeholder="Estoque" value="{{livro.estoque if livro}}">
+<button class="btn btn-success">Salvar</button>
+</form>
+<a href="/livros" class="btn btn-secondary mt-3">Voltar</a>
+</body></html>

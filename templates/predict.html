@@ -1,0 +1,17 @@
+<!doctype html><html><head>
+<meta charset='utf-8'><title>Previsão</title>
+<link href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css' rel='stylesheet'>
+</head><body class='p-4'>
+<h1>Previsão de Preço</h1>
+<form method="post">
+<input name="genero" class="form-control mb-2" placeholder="Gênero (número)">
+<input name="paginas" class="form-control mb-2" placeholder="Páginas">
+<input name="avaliacao" class="form-control mb-2" placeholder="Avaliação">
+<input name="ano_publicacao" class="form-control mb-2" placeholder="Ano">
+<button class="btn btn-primary">Prever</button>
+</form>
+{% if pred %}
+<div class="alert alert-info mt-3">Preço Previsto: R$ {{pred}}</div>
+{% endif %}
+<a href="/" class="btn btn-secondary mt-3">Voltar</a>
+</body></html>

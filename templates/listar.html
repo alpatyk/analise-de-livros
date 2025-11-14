@@ -1,0 +1,24 @@
+<!doctype html><html><head>
+<meta charset='utf-8'><title>Livros</title>
+<link href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css' rel='stylesheet'>
+</head><body class='p-4'>
+<h1>Lista de Livros</h1>
+<a href="/livros/novo" class="btn btn-success mb-3">Novo Livro</a>
+<table class="table table-striped">
+<tr><th>ID</th><th>Título</th><th>Autor</th><th>Gênero</th><th>Preço</th><th>Ações</th></tr>
+{% for l in livros %}
+<tr>
+<td>{{l.id}}</td>
+<td>{{l.titulo}}</td>
+<td>{{l.autor}}</td>
+<td>{{l.genero}}</td>
+<td>R$ {{l.preco}}</td>
+<td>
+<a href="/livros/editar/{{l.id}}" class="btn btn-warning btn-sm">Editar</a>
+<a href="/livros/excluir/{{l.id}}" class="btn btn-danger btn-sm">Excluir</a>
+</td>
+</tr>
+{% endfor %}
+</table>
+<a href="/" class="btn btn-secondary">Voltar</a>
+</body></html>
